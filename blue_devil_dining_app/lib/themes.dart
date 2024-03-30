@@ -17,6 +17,10 @@ final ThemeData appTheme = ThemeData(
     surfaceTintColor: backgroundColor,
     color: Colors.white,
   ),
+  iconTheme: const IconThemeData(
+    color: defaultTextColor,
+    size: standardSeparation * 1.5,
+  ),
   useMaterial3: true,
   primaryColor: primaryColor,
   secondaryHeaderColor: backgroundColor,

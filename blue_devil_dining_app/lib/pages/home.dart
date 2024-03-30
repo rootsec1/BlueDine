@@ -1,4 +1,7 @@
+import 'dart:math';
+
 import 'package:blue_devil_dining_app/constants.dart';
+import 'package:blue_devil_dining_app/widgets/restaurant_card.dart';
 import 'package:blue_devil_dining_app/widgets/search_bar.dart';
 import 'package:flutter/material.dart';
 import 'package:pocketbase/pocketbase.dart';
@@ -18,17 +21,14 @@ class _TopRowWidget extends StatelessWidget {
       recordModel.data["avatar"],
     );
     return Row(
-      mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      mainAxisAlignment: MainAxisAlignment.center,
       crossAxisAlignment: CrossAxisAlignment.center,
       children: [
         const Row(
           mainAxisAlignment: MainAxisAlignment.start,
           crossAxisAlignment: CrossAxisAlignment.center,
           children: [
-            Icon(
-              Icons.location_on_outlined,
-              size: standardSeparation * 2,
-            ),
+            Icon(Icons.location_on_outlined),
             SizedBox(width: standardSeparation / 4),
             Column(
               mainAxisAlignment: MainAxisAlignment.start,
@@ -49,6 +49,11 @@ class _TopRowWidget extends StatelessWidget {
             )
           ],
         ),
+        Expanded(child: Container()),
+        const Icon(Icons.flag_outlined, size: standardSeparation * 1.5),
+        const SizedBox(width: standardSeparation),
+        const Icon(Icons.insights_outlined, size: standardSeparation * 1.5),
+        const SizedBox(width: standardSeparation),
         CircleAvatar(
           radius: standardSeparation * 1.5,
           child: Image.network(avatarUri.toString()),
@@ -67,6 +72,57 @@ class HomePage extends StatefulWidget {
 
 class _HomePageState extends State<HomePage> {
   onChatbotButtonPressed() {}
+
+  Widget getRestaurantCards() {
+    return FutureBuilder(
+      future: pb.collection("restaurants").getFullList(),
+      builder: (context, snapshot) {
+        if (snapshot.connectionState == ConnectionState.waiting) {
+          return const Center(child: CircularProgressIndicator());
+        }
+
+        if (snapshot.hasError) {
+          return const Center(child: Text("An error occurred"));
+        }
+
+        final records = snapshot.data as List<RecordModel>;
+
+        return ListView.builder(
+          itemBuilder: (context, index) {
+            final recData = records[index].data;
+            final tagsString = (recData["tags"] as String).trim();
+            List<String> tagsList = tagsString.split(";");
+            // Filter tagsList if _ in string
+            tagsList = tagsList
+                .where((tag) =>
+                    !tag.contains("_") &&
+                    !tag.contains("dining") &&
+                    !tag.contains("mobile"))
+                .toList();
+
+            // Generate a random number for ratings between 3.5 and 5.0
+            final random = Random();
+            double rating = (random.nextDouble() * 1.5) + 3.2;
+
+            return Container(
+              margin: const EdgeInsets.only(bottom: standardSeparation),
+              child: RestaurantCard(
+                restaurantName: recData["name"],
+                imageUrl: recData["image_url"],
+                tags: tagsList,
+                rating: rating,
+                latitude: recData["latitude"],
+                longitude: recData["longitude"],
+              ),
+            );
+          },
+          itemCount: records.length,
+          shrinkWrap: true,
+          physics: const NeverScrollableScrollPhysics(),
+        );
+      },
+    );
+  }
 
   @override
   Widget build(BuildContext context) {
@@ -92,6 +148,9 @@ class _HomePageState extends State<HomePage> {
             _TopRowWidget(recordModel: recordModel),
             const SizedBox(height: standardSeparation),
             const CustomSearchBar(),
+            const SizedBox(height: standardSeparation * 2),
+            getRestaurantCards(),
+            const SizedBox(height: standardSeparation),
           ],
         ),
       ),

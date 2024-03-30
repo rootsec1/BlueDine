@@ -6,6 +6,8 @@ import 'package:flutter/material.dart';
 const String appName = "BlueDine";
 const String pocketbaseUrl = "http://192.168.1.18:8090";
 
+const List<String> foodTypes = ["All", "Vegetarian", "Vegan"];
+
 // numbers
 const double standardSeparation = 16.0;
 
@@ -14,6 +16,8 @@ enum PageNames {
   SPLASH_PAGE,
   SIGN_IN_PAGE,
   HOME_PAGE,
+  CHATBOT_PAGE,
+  RESTAURANT_DETAIL_PAGE,
 }
 
 // Padding
