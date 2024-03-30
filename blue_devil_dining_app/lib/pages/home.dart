@@ -1,6 +1,7 @@
 import 'dart:math';
 
 import 'package:blue_devil_dining_app/constants.dart';
+import 'package:blue_devil_dining_app/themes.dart';
 import 'package:blue_devil_dining_app/widgets/restaurant_card.dart';
 import 'package:blue_devil_dining_app/widgets/search_bar.dart';
 import 'package:flutter/material.dart';
@@ -71,14 +72,27 @@ class HomePage extends StatefulWidget {
 }
 
 class _HomePageState extends State<HomePage> {
+  Future<List<RecordModel>>? restaurantsFuture;
+
   onChatbotButtonPressed() {}
+
+  @override
+  void didChangeDependencies() {
+    setState(() {
+      restaurantsFuture = pb.collection("restaurants").getFullList();
+    });
+    super.didChangeDependencies();
+  }
 
   Widget getRestaurantCards() {
     return FutureBuilder(
-      future: pb.collection("restaurants").getFullList(),
+      future: restaurantsFuture,
       builder: (context, snapshot) {
         if (snapshot.connectionState == ConnectionState.waiting) {
-          return const Center(child: CircularProgressIndicator());
+          return const Center(
+              child: CircularProgressIndicator(
+            color: primaryColor,
+          ));
         }
 
         if (snapshot.hasError) {

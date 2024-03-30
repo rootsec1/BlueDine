@@ -1,6 +1,7 @@
 import 'dart:async';
 
 import 'package:blue_devil_dining_app/constants.dart';
+import 'package:blue_devil_dining_app/pages/search_results.dart';
 import 'package:flutter/material.dart';
 
 final List<String> hintOptions = [
@@ -36,15 +37,31 @@ class _CustomSearchBarState extends State<CustomSearchBar> {
     super.didChangeDependencies();
   }
 
+  onSearchSubmitted(String query) {
+    query = query.trim();
+    showModalBottomSheet(
+      isDismissible: true,
+      context: context,
+      builder: (dialogContext) {
+        return SearchResultsContainer(
+          query: query,
+          dialogContext: dialogContext,
+        );
+      },
+    );
+  }
+
   @override
   Widget build(BuildContext context) {
     return SearchBar(
+      onSubmitted: onSearchSubmitted,
       backgroundColor: const MaterialStatePropertyAll<Color>(Colors.white),
       surfaceTintColor: const MaterialStatePropertyAll<Color>(Colors.white),
       controller: controller,
       padding: const MaterialStatePropertyAll<EdgeInsets>(
         EdgeInsets.symmetric(horizontal: standardSeparation),
       ),
+      textInputAction: TextInputAction.search,
       leading: const Icon(Icons.search, size: standardSeparation + 4),
       hintText: currentHint,
       hintStyle: const MaterialStatePropertyAll<TextStyle>(

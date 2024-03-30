@@ -5,6 +5,7 @@ import 'package:flutter/material.dart';
 
 const String appName = "BlueDine";
 const String pocketbaseUrl = "http://192.168.1.18:8090";
+const String apiUrl = "http://192.168.1.18:8000";
 
 const List<String> foodTypes = ["All", "Vegetarian", "Vegan"];
 
