@@ -18,7 +18,7 @@ Duke University's diverse community has a common challenge: finding satisfying d
 Blue Dine leverages the Flutter framework for its cross-platform capabilities, combined with the power of Pinecone for AI-search, PocketBase with FastAPI for backend services, and an innovative chatbot experience through Gemini. It integrates with Duke's public API for real-time dining data and utilizes a comprehensive dataset of Duke's dining options, meticulously compiled and enriched with essential details.
 
 ## App Demo
-
+[Watch Demo here](https://youtu.be/x7aw_Tkn6YM)
 
 
 ## Installation and Running Blue Dine
@@ -31,11 +31,12 @@ Blue Dine leverages the Flutter framework for its cross-platform capabilities, c
 
 ### Installing
 
-'''bash
+```bash
 git clone https://github.com/rootsec1/BlueDine
 cd BlueDine
 flutter pub get
 flutter run
+```
 
 ## Challenges
 
