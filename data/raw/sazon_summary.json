@@ -1,0 +1,725 @@
+[
+    {
+        "name": "Flour Tortilla 12\"",
+        "description": "A large, soft flour tortilla perfect for wrapping your favorite ingredients into a delicious burrito.",
+        "price": "2.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat Flour",
+            "Water",
+            "Vegetable Oil",
+            "Salt"
+        ],
+        "calories": 300,
+        "category": "Build Your Own Arepa Bowl, Flour or Corn Tortilla, Quesadilla or Tuesday Burrito Special",
+        "summary": "flour tortilla 12\", a large, soft tortilla for burritos, $2.50, vegetarian, wheat flour water vegetable oil salt, 300 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Flour Tortilla 6\"",
+        "description": "A smaller, soft flour tortilla ideal for tacos, quesadillas, and smaller burritos.",
+        "price": "1.25",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat Flour",
+            "Water",
+            "Vegetable Oil",
+            "Salt"
+        ],
+        "calories": 150,
+        "category": "Build Your Own Arepa Bowl, Flour or Corn Tortilla, Quesadilla or Tuesday Burrito Special",
+        "summary": "flour tortilla 6\", perfect for tacos and small burritos, $1.25, vegetarian, wheat flour water vegetable oil salt, 150 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Latin Arepa Bowl",
+        "description": "A delectable bowl featuring a base of your choice topped with a variety of Latin-inspired ingredients.",
+        "price": "8.99",
+        "type": "Gluten-Free",
+        "ingredients": [
+            "Cornmeal",
+            "Protein Choice",
+            "Toppings Choice",
+            "Sauce Choice"
+        ],
+        "calories": 500,
+        "category": "Build Your Own Arepa Bowl, Flour or Corn Tortilla, Quesadilla or Tuesday Burrito Special",
+        "summary": "latin arepa bowl, customizable with Latin-inspired ingredients, $8.99, gluten-free, cornmeal with choice of protein toppings and sauce, 500 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "White Corn Tortilla 6\"",
+        "description": "A traditional, soft white corn tortilla perfect for authentic tacos and enchiladas.",
+        "price": "1.25",
+        "type": "Vegan",
+        "ingredients": [
+            "White Corn",
+            "Water",
+            "Lime"
+        ],
+        "calories": 100,
+        "category": "Build Your Own Arepa Bowl, Flour or Corn Tortilla, Quesadilla or Tuesday Burrito Special",
+        "summary": "white corn tortilla 6\", ideal for authentic Mexican dishes, $1.25, vegan, white corn water lime, 100 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Beef Barbacoa",
+        "description": "Slow-cooked, tender beef barbacoa, seasoned with traditional spices.",
+        "price": "3.50",
+        "type": "Meat",
+        "ingredients": [
+            "Beef",
+            "Chipotle Peppers",
+            "Garlic",
+            "Cumin",
+            "Oregano"
+        ],
+        "calories": 250,
+        "category": "Choose Protein",
+        "summary": "beef barbacoa, slow-cooked with traditional spices, $3.50, meat, beef chipotle peppers garlic cumin oregano, 250 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chipotle Chicken",
+        "description": "Juicy, grilled chicken marinated in a smoky chipotle sauce, bringing a spicy kick to your meal.",
+        "price": "3.00",
+        "type": "Meat",
+        "ingredients": [
+            "Chicken",
+            "Chipotle Peppers",
+            "Adobo Sauce",
+            "Garlic",
+            "Onion"
+        ],
+        "calories": 220,
+        "category": "Choose Protein",
+        "summary": "chipotle chicken, grilled and marinated in chipotle, $3.00, meat, chicken chipotle peppers adobo sauce garlic onion, 220 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Pork Carnitas",
+        "description": "Tender, slow-cooked pork, perfectly seasoned for a flavorful and juicy addition to your dish.",
+        "price": "3.00",
+        "type": "Meat",
+        "ingredients": [
+            "Pork",
+            "Orange Juice",
+            "Garlic",
+            "Cumin",
+            "Bay Leaves"
+        ],
+        "calories": 240,
+        "category": "Choose Protein",
+        "summary": "pork carnitas, slow-cooked and seasoned, $3.00, meat, pork orange juice garlic cumin bay leaves, 240 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Portobello Mushrooms",
+        "description": "Grilled Portobello mushrooms, marinated in a savory blend of herbs and spices, offering a hearty vegetarian option.",
+        "price": "2.75",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Portobello Mushrooms",
+            "Olive Oil",
+            "Garlic",
+            "Thyme",
+            "Balsamic Vinegar"
+        ],
+        "calories": 150,
+        "category": "Choose Protein",
+        "summary": "portobello mushrooms, grilled and herb-marinated, $2.75, vegetarian, portobello mushrooms olive oil garlic thyme balsamic vinegar, 150 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Steak",
+        "description": "Grilled, marinated steak, cooked to perfection, adding a rich and satisfying flavor to your meal.",
+        "price": "3.50",
+        "type": "Meat",
+        "ingredients": [
+            "Beef Steak",
+            "Soy Sauce",
+            "Garlic",
+            "Black Pepper",
+            "Lime Juice"
+        ],
+        "calories": 260,
+        "category": "Choose Protein",
+        "summary": "steak, grilled and marinated, $3.50, meat, beef steak soy sauce garlic black pepper lime juice, 260 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Black Beans",
+        "description": "Simmered black beans, seasoned with a blend of spices, providing a healthy and flavorful topping.",
+        "price": "1.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Black Beans",
+            "Onion",
+            "Garlic",
+            "Cumin",
+            "Bay Leaf"
+        ],
+        "calories": 120,
+        "category": "Choose Topping",
+        "summary": "black beans, simmered and seasoned, $1.00, vegan, black beans onion garlic cumin bay leaf, 120 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cheese Cotija",
+        "description": "Grated Cotija cheese, a hard, crumbly Mexican cheese that adds a salty, milky flavor to your dish.",
+        "price": "1.00",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cotija Cheese"
+        ],
+        "calories": 100,
+        "category": "Choose Topping",
+        "summary": "cheese cotija, grated hard and crumbly, $1.00, vegetarian, cotija cheese, 100 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cilantro Lime Brown Rice",
+        "description": "Fluffy brown rice seasoned with fresh cilantro and lime juice, offering a tangy and herbal flavor.",
+        "price": "1.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Brown Rice",
+            "Cilantro",
+            "Lime Juice",
+            "Salt"
+        ],
+        "calories": 200,
+        "category": "Choose Topping",
+        "summary": "cilantro lime brown rice, fluffy and tangy, $1.50, vegan, brown rice cilantro lime juice salt, 200 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cilantro Lime Coleslaw",
+        "description": "A crunchy and refreshing coleslaw made with cilantro and lime, adding a zesty flavor to your meal.",
+        "price": "1.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cabbage",
+            "Carrots",
+            "Cilantro",
+            "Lime Juice",
+            "Mayonnaise"
+        ],
+        "calories": 150,
+        "category": "Choose Topping",
+        "summary": "cilantro lime coleslaw, crunchy and zesty, $1.50, vegetarian, cabbage carrots cilantro lime juice mayonnaise, 150 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cilantro Lime White Rice",
+        "description": "White rice infused with the bright flavors of cilantro and lime, offering a perfect base or side for any dish.",
+        "price": "1.50",
+        "type": "Vegan",
+        "ingredients": [
+            "White Rice",
+            "Cilantro",
+            "Lime Juice",
+            "Salt"
+        ],
+        "calories": 190,
+        "category": "Choose Topping",
+        "summary": "cilantro lime white rice, bright and flavorful, $1.50, vegan, white rice cilantro lime juice salt, 190 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Corn Salsa",
+        "description": "A fresh and spicy salsa made with sweet corn, tomatoes, onions, and jalapeños, perfect for adding a kick to your dish.",
+        "price": "1.75",
+        "type": "Vegan",
+        "ingredients": [
+            "Corn",
+            "Tomatoes",
+            "Onions",
+            "Jalapeños",
+            "Cilantro",
+            "Lime Juice"
+        ],
+        "calories": 80,
+        "category": "Choose Topping",
+        "summary": "corn salsa, fresh and spicy, $1.75, vegan, corn tomatoes onions jalapeños cilantro lime juice, 80 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Guacamole",
+        "description": "Creamy, homemade guacamole made from ripe avocados, mixed with tomatoes, onions, cilantro, and lime, offering a rich and refreshing taste.",
+        "price": "2.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Avocado",
+            "Tomatoes",
+            "Onions",
+            "Cilantro",
+            "Lime Juice",
+            "Salt"
+        ],
+        "calories": 150,
+        "category": "Choose Topping",
+        "summary": "guacamole, creamy and homemade, $2.00, vegan, avocado tomatoes onions cilantro lime juice salt, 150 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Habanero Coleslaw",
+        "description": "A fiery twist on traditional coleslaw, made with habanero peppers for a spicy kick, mixed with crunchy cabbage and carrots.",
+        "price": "1.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cabbage",
+            "Carrots",
+            "Habanero Peppers",
+            "Mayonnaise",
+            "Lime Juice"
+        ],
+        "calories": 160,
+        "category": "Choose Topping",
+        "summary": "habanero coleslaw, spicy and crunchy, $1.50, vegetarian, cabbage carrots habanero peppers mayonnaise lime juice, 160 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Maduros (Sweet Plantains)",
+        "description": "Sweet and tender maduros, perfectly fried to bring out their natural sweetness and served as a delicious side or topping.",
+        "price": "2.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Sweet Plantains",
+            "Vegetable Oil"
+        ],
+        "calories": 180,
+        "category": "Choose Topping",
+        "summary": "maduros (sweet plantains), sweet and tender, $2.00, vegan, sweet plantains vegetable oil, 180 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Pico de Gallo",
+        "description": "A fresh, diced tomato salsa with onions, cilantro, and jalapenos, seasoned with lime juice and salt, offering a bright and zesty flavor.",
+        "price": "1.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Tomatoes",
+            "Onions",
+            "Cilantro",
+            "Jalapeños",
+            "Lime Juice",
+            "Salt"
+        ],
+        "calories": 25,
+        "category": "Choose Topping",
+        "summary": "pico de gallo, fresh and zesty, $1.50, vegan, tomatoes onions cilantro jalapeños lime juice salt, 25 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Sauteed Onions",
+        "description": "Softly sauteed onions, caramelized to perfection, adding a sweet and savory depth to any dish.",
+        "price": "1.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Onions",
+            "Olive Oil",
+            "Salt"
+        ],
+        "calories": 60,
+        "category": "Choose Topping",
+        "summary": "sauteed onions, softly caramelized, $1.00, vegan, onions olive oil salt, 60 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chipotle Crema",
+        "description": "A smooth and spicy cream sauce made with chipotle peppers, offering a smoky flavor with a creamy texture.",
+        "price": "0.75",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Sour Cream",
+            "Chipotle Peppers",
+            "Lime Juice",
+            "Garlic"
+        ],
+        "calories": 90,
+        "category": "Choose Sauce",
+        "summary": "chipotle crema, smooth and spicy, $0.75, vegetarian, sour cream chipotle peppers lime juice garlic, 90 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Fresco Sauce",
+        "description": "A light and refreshing sauce made with yogurt, cucumber, and fresh herbs, perfect for adding a cool touch to your meal.",
+        "price": "0.75",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Yogurt",
+            "Cucumber",
+            "Mint",
+            "Garlic",
+            "Lemon Juice"
+        ],
+        "calories": 70,
+        "category": "Choose Sauce",
+        "summary": "fresco sauce, light and refreshing, $0.75, vegetarian, yogurt cucumber mint garlic lemon juice, 70 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Habanero Red Hot Sauce",
+        "description": "A fiery hot sauce made with habanero peppers, offering an intense heat and flavor for those who like it spicy.",
+        "price": "0.75",
+        "type": "Vegan",
+        "ingredients": [
+            "Habanero Peppers",
+            "Vinegar",
+            "Tomato",
+            "Garlic",
+            "Salt"
+        ],
+        "calories": 50,
+        "category": "Choose Sauce",
+        "summary": "habanero red hot sauce, fiery and intense, $0.75, vegan, habanero peppers vinegar tomato garlic salt, 50 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Hot Cilantro Aioli",
+        "description": "A spicy aioli sauce made with fresh cilantro and a hint of garlic, perfect for adding a creamy, spicy kick.",
+        "price": "0.75",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mayonnaise",
+            "Cilantro",
+            "Garlic",
+            "Lime Juice",
+            "Chili Peppers"
+        ],
+        "calories": 110,
+        "category": "Choose Sauce",
+        "summary": "hot cilantro aioli, creamy and spicy, $0.75, vegetarian, mayonnaise cilantro garlic lime juice chili peppers, 110 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Mild Cilantro Aioli",
+        "description": "A milder version of our cilantro aioli, made with the same fresh ingredients but less heat, for a creamy and flavorful sauce.",
+        "price": "0.75",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mayonnaise",
+            "Cilantro",
+            "Garlic",
+            "Lime Juice"
+        ],
+        "calories": 100,
+        "category": "Choose Sauce",
+        "summary": "mild cilantro aioli, creamy and flavorful, $0.75, vegetarian, mayonnaise cilantro garlic lime juice, 100 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chips",
+        "description": "Crispy, golden-brown tortilla chips, perfect for dipping into our homemade salsas or guacamole.",
+        "price": "1.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Corn Tortillas",
+            "Vegetable Oil",
+            "Salt"
+        ],
+        "calories": 300,
+        "category": "Choose Sides",
+        "summary": "chips, crispy and golden-brown, $1.50, vegan, corn tortillas vegetable oil salt, 300 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Churros",
+        "description": "Sweet and crunchy churros, dusted with sugar and cinnamon, served with a side of chocolate dipping sauce.",
+        "price": "2.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat Flour",
+            "Water",
+            "Butter",
+            "Sugar",
+            "Cinnamon",
+            "Chocolate Sauce"
+        ],
+        "calories": 420,
+        "category": "Choose Sides",
+        "summary": "churros, sweet and crunchy, $2.50, vegetarian, wheat flour water butter sugar cinnamon chocolate sauce, 420 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Flour Tortilla 6\"",
+        "description": "A soft, warm flour tortilla, versatile for creating your own wraps or enjoying with a side of our delicious salsas.",
+        "price": "0.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat Flour",
+            "Water",
+            "Vegetable Oil",
+            "Salt"
+        ],
+        "calories": 150,
+        "category": "Choose Sides",
+        "summary": "flour tortilla 6\", soft and warm, $0.50, vegetarian, wheat flour water vegetable oil salt, 150 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Guacamole",
+        "description": "Our signature, freshly made guacamole, crafted from ripe avocados and a perfect blend of tomatoes, onions, cilantro, and lime.",
+        "price": "3.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Avocado",
+            "Tomatoes",
+            "Onions",
+            "Cilantro",
+            "Lime Juice",
+            "Salt"
+        ],
+        "calories": 220,
+        "category": "Choose Sides",
+        "summary": "guacamole, freshly made, $3.00, vegan, avocado tomatoes onions cilantro lime juice salt, 220 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Horchata",
+        "description": "A refreshing, sweet drink made from rice, cinnamon, and vanilla, served chilled.",
+        "price": "2.00",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Rice",
+            "Milk",
+            "Cinnamon",
+            "Vanilla",
+            "Sugar"
+        ],
+        "calories": 180,
+        "category": "Choose Sides",
+        "summary": "horchata, refreshing and sweet, $2.00, vegetarian, rice milk cinnamon vanilla sugar, 180 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Latin Arepa Bowl",
+        "description": "A customizable bowl featuring a base of traditional arepas, topped with your choice of proteins, toppings, and sauces.",
+        "price": "6.50",
+        "type": "Gluten-Free",
+        "ingredients": [
+            "Cornmeal",
+            "Water",
+            "Salt",
+            "Choice of Protein",
+            "Choice of Toppings",
+            "Choice of Sauce"
+        ],
+        "calories": 450,
+        "category": "Choose Sides",
+        "summary": "latin arepa bowl, customizable with arepas base, $6.50, gluten-free, cornmeal water salt choice of protein toppings sauce, 450 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Maduros (Sweet Plantains)",
+        "description": "Ripe plantains, fried until caramelized on the outside and soft on the inside, offering a sweet and satisfying side.",
+        "price": "2.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Sweet Plantains",
+            "Vegetable Oil"
+        ],
+        "calories": 200,
+        "category": "Choose Sides",
+        "summary": "maduros (sweet plantains), caramelized and sweet, $2.00, vegan, sweet plantains vegetable oil, 200 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Pico de Gallo",
+        "description": "A classic Mexican salsa made with fresh diced tomatoes, onions, cilantro, and jalapenos, seasoned with lime juice and salt.",
+        "price": "1.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Tomatoes",
+            "Onions",
+            "Cilantro",
+            "Jalapeños",
+            "Lime Juice",
+            "Salt"
+        ],
+        "calories": 20,
+        "category": "Choose Sides",
+        "summary": "pico de gallo, classic Mexican salsa, $1.00, vegan, tomatoes onions cilantro jalapeños lime juice salt, 20 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Queso Dip",
+        "description": "A creamy and spicy cheese dip, made with a blend of cheeses and chili peppers, served warm.",
+        "price": "3.00",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cheese Blend",
+            "Milk",
+            "Chili Peppers",
+            "Tomatoes",
+            "Garlic"
+        ],
+        "calories": 250,
+        "category": "Choose Sides",
+        "summary": "queso dip, creamy and spicy, $3.00, vegetarian, cheese blend milk chili peppers tomatoes garlic, 250 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Sweet Potato Fries",
+        "description": "Crispy and slightly sweet, these fries are a delicious twist on the classic side, served with a side of chipotle aioli.",
+        "price": "2.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Sweet Potatoes",
+            "Vegetable Oil",
+            "Salt",
+            "Chipotle Aioli"
+        ],
+        "calories": 320,
+        "category": "Choose Sides",
+        "summary": "sweet potato fries, crispy and slightly sweet, $2.50, vegan, sweet potatoes vegetable oil salt chipotle aioli, 320 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Tostones",
+        "description": "Crispy twice-fried green plantains, served with a garlic sauce for dipping. A savory treat that's perfect as a snack or side.",
+        "price": "2.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Green Plantains",
+            "Vegetable Oil",
+            "Garlic",
+            "Salt"
+        ],
+        "calories": 210,
+        "category": "Choose Sides",
+        "summary": "tostones, crispy twice-fried plantains, $2.00, vegan, green plantains vegetable oil garlic salt, 210 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Triple Chocolate Cookie",
+        "description": "A decadent soft-baked cookie loaded with dark, milk, and white chocolate chips, satisfying the sweet tooth of chocolate lovers.",
+        "price": "1.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat Flour",
+            "Butter",
+            "Sugar",
+            "Cocoa Powder",
+            "Dark Chocolate Chips",
+            "Milk Chocolate Chips",
+            "White Chocolate Chips",
+            "Eggs",
+            "Vanilla Extract"
+        ],
+        "calories": 280,
+        "category": "Choose Sides",
+        "summary": "triple chocolate cookie, soft-baked with three types of chocolate, $1.50, vegetarian, wheat flour butter sugar cocoa powder dark milk white chocolate chips eggs vanilla extract, 280 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "White Corn Tortilla 6\"",
+        "description": "A traditional white corn tortilla, soft and flexible, ideal for creating your own tacos or enjoying as a simple side.",
+        "price": "0.50",
+        "type": "Vegan",
+        "ingredients": [
+            "White Corn",
+            "Water",
+            "Lime"
+        ],
+        "calories": 50,
+        "category": "Choose Sides",
+        "summary": "white corn tortilla 6\", soft and flexible, $0.50, vegan, white corn water lime, 50 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Yucca Fries",
+        "description": "Fried yucca sticks, crispy on the outside and tender on the inside, served with a side of cilantro aioli for dipping.",
+        "price": "2.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Yucca",
+            "Vegetable Oil",
+            "Salt",
+            "Cilantro Aioli"
+        ],
+        "calories": 310,
+        "category": "Choose Sides",
+        "summary": "yucca fries, crispy and tender, $2.50, vegan, yucca vegetable oil salt cilantro aioli, 310 calories, sazon restaurant",
+        "restaurant": "Sazon",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    }
+]
