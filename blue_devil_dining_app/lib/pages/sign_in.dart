@@ -15,10 +15,8 @@ class SignInPage extends StatefulWidget {
 }
 
 class _SignInPageState extends State<SignInPage> {
-  final TextEditingController emailController =
-      TextEditingController(text: "abhishek.murthy@duke.edu");
-  final TextEditingController passwordController =
-      TextEditingController(text: "password");
+  final TextEditingController emailController = TextEditingController();
+  final TextEditingController passwordController = TextEditingController();
 
   bool isLoading = false;
 

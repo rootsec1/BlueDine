@@ -5,6 +5,7 @@ import 'package:blue_devil_dining_app/themes.dart';
 import 'package:blue_devil_dining_app/util.dart';
 import 'package:blue_devil_dining_app/widgets/restaurant_card.dart';
 import 'package:blue_devil_dining_app/widgets/search_bar.dart';
+import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/widgets.dart';
 import 'package:pocketbase/pocketbase.dart';
@@ -64,7 +65,14 @@ class _TopRowWidget extends StatelessWidget {
           ),
         ),
         const SizedBox(width: standardSeparation),
-        const Icon(Icons.insights_outlined, size: standardSeparation * 1.5),
+        GestureDetector(
+          onTap: () =>
+              Navigator.pushNamed(context, PageNames.SPEND_ANALYSIS_PAGE.name),
+          child: const Icon(
+            Icons.insights_outlined,
+            size: standardSeparation * 1.5,
+          ),
+        ),
         const SizedBox(width: standardSeparation),
         CircleAvatar(
           radius: standardSeparation * 1.5,

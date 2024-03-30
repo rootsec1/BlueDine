@@ -2,6 +2,7 @@ import 'package:blue_devil_dining_app/pages/chatbot_page.dart';
 import 'package:blue_devil_dining_app/pages/home.dart';
 import 'package:blue_devil_dining_app/pages/restaurant_detail_page.dart';
 import 'package:blue_devil_dining_app/pages/sign_in.dart';
+import 'package:blue_devil_dining_app/pages/spend_analysis_page.dart';
 import 'package:flutter/material.dart';
 // Local
 import 'package:blue_devil_dining_app/constants.dart';
@@ -14,4 +15,5 @@ final Map<String, Widget Function(BuildContext context)> appRoutes =
   PageNames.HOME_PAGE.name: (_) => const HomePage(),
   PageNames.CHATBOT_PAGE.name: (_) => const ChatPage(),
   PageNames.RESTAURANT_DETAIL_PAGE.name: (_) => const RestaurantDetailPage(),
+  PageNames.SPEND_ANALYSIS_PAGE.name: (_) => const SpendAnalysisPage(),
 };

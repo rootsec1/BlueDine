@@ -19,6 +19,7 @@ enum PageNames {
   HOME_PAGE,
   CHATBOT_PAGE,
   RESTAURANT_DETAIL_PAGE,
+  SPEND_ANALYSIS_PAGE,
 }
 
 // Padding
