@@ -17,6 +17,7 @@ dependencies:
   pocketbase: ^0.18.1
   flutter_rating_bar: ^4.0.1
   android_intent_plus: ^5.0.1
+  format: ^1.5.1
 
 dev_dependencies:
   flutter_test:
