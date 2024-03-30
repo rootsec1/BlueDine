@@ -1,0 +1,906 @@
+[
+    {
+        "name": "Seasonal Fruit Cup",
+        "description": "A refreshing mix of seasonal fruits.",
+        "price": "4.59",
+        "type": "Vegan",
+        "ingredients": [
+            "Strawberries",
+            "Blueberries",
+            "Apples",
+            "Grapes"
+        ],
+        "calories": 120,
+        "category": "Cold Breakfast",
+        "summary": "seasonal fruit cup, a refreshing mix of seasonal fruits, $4.59, vegan, strawberries blueberries apples grapes, 120 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Avocado Egg White Spin Grain Flat Bagel",
+        "description": "A hearty and healthy start to your day with egg whites and avocado on a grain flat bagel.",
+        "price": "5.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Egg whites",
+            "Avocado",
+            "Spinach",
+            "Grain flat bagel"
+        ],
+        "calories": 350,
+        "category": "Hot Breakfast",
+        "summary": "avocado egg white spin grain flat bagel, a hearty and healthy start to your day with egg whites and avocado on a grain flat bagel, $5.99, vegetarian, egg whites avocado spinach grain flat bagel, 350 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Bacon Egg Cheese on Asiago Cheese Bagel",
+        "description": "A classic breakfast combination with crispy bacon, egg, and cheese on our asiago cheese bagel.",
+        "price": "6.29",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Bacon",
+            "Egg",
+            "Cheese",
+            "Asiago cheese bagel"
+        ],
+        "calories": 460,
+        "category": "Hot Breakfast",
+        "summary": "bacon egg cheese on asiago cheese bagel, a classic breakfast combination with crispy bacon, egg, and cheese on our asiago cheese bagel, $6.29, non-vegetarian, bacon egg cheese asiago cheese bagel, 460 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Bacon Scr Egg & Cheese on Tomato Wrap",
+        "description": "Fluffy scrambled eggs, smoky bacon, and melted cheese wrapped in a tender tomato basil wrap.",
+        "price": "6.29",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Scrambled eggs",
+            "Bacon",
+            "Cheese",
+            "Tomato basil wrap"
+        ],
+        "calories": 420,
+        "category": "Hot Breakfast",
+        "summary": "bacon scr egg & cheese on tomato wrap, fluffy scrambled eggs, smoky bacon, and melted cheese wrapped in a tender tomato basil wrap, $6.29, non-vegetarian, scrambled eggs bacon cheese tomato basil wrap, 420 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Bacon Scrambled Egg & Cheese Ciabatta",
+        "description": "Enjoy a satisfying breakfast with bacon, scrambled eggs, and cheese on our freshly baked ciabatta.",
+        "price": "6.29",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Bacon",
+            "Scrambled eggs",
+            "Cheese",
+            "Ciabatta"
+        ],
+        "calories": 500,
+        "category": "Hot Breakfast",
+        "summary": "bacon scrambled egg & cheese ciabatta, enjoy a satisfying breakfast with bacon, scrambled eggs, and cheese on our freshly baked ciabatta, $6.29, non-vegetarian, bacon scrambled eggs cheese ciabatta, 500 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chipotle Chicken Scr Egg & Avocado Wrap",
+        "description": "A spicy and fulfilling wrap with chipotle chicken, scrambled eggs, and creamy avocado.",
+        "price": "6.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Chipotle chicken",
+            "Scrambled eggs",
+            "Avocado",
+            "Tomato wrap"
+        ],
+        "calories": 480,
+        "category": "Hot Breakfast",
+        "summary": "chipotle chicken scr egg & avocado wrap, a spicy and fulfilling wrap with chipotle chicken, scrambled eggs, and creamy avocado, $6.99, non-vegetarian, chipotle chicken scrambled eggs avocado tomato wrap, 480 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Egg and Cheese on Brioche",
+        "description": "A simple yet delicious brioche sandwich with fluffy egg and melted cheese.",
+        "price": "5.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Egg",
+            "Cheese",
+            "Brioche"
+        ],
+        "calories": 390,
+        "category": "Hot Breakfast",
+        "summary": "egg and cheese on brioche, a simple yet delicious brioche sandwich with fluffy egg and melted cheese, $5.49, vegetarian, egg cheese brioche, 390 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Egg and Cheese on Ciabatta",
+        "description": "Fluffy egg and cheese served on our artisan ciabatta for a perfect breakfast.",
+        "price": "5.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Egg",
+            "Cheese",
+            "Ciabatta"
+        ],
+        "calories": 400,
+        "category": "Hot Breakfast",
+        "summary": "egg and cheese on ciabatta, fluffy egg and cheese served on our artisan ciabatta for a perfect breakfast, $5.49, vegetarian, egg cheese ciabatta, 400 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Sausage Scr Egg and Cheese on Brioche",
+        "description": "A hearty breakfast sandwich with sausage, scrambled egg, and cheese on a soft brioche bun.",
+        "price": "6.49",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Sausage",
+            "Scrambled egg",
+            "Cheese",
+            "Brioche bun"
+        ],
+        "calories": 520,
+        "category": "Hot Breakfast",
+        "summary": "sausage scr egg and cheese on brioche, a hearty breakfast sandwich with sausage, scrambled egg, and cheese on a soft brioche bun, $6.49, non-vegetarian, sausage scrambled egg cheese brioche bun, 520 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Sausage Scr Egg and Cheese on Ciabatta",
+        "description": "Savor the flavors of sausage, scrambled egg, and cheese on our freshly baked ciabatta.",
+        "price": "6.49",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Sausage",
+            "Scrambled egg",
+            "Cheese",
+            "Ciabatta"
+        ],
+        "calories": 530,
+        "category": "Hot Breakfast",
+        "summary": "sausage scr egg and cheese on ciabatta, savor the flavors of sausage, scrambled egg, and cheese on our freshly baked ciabatta, $6.49, non-vegetarian, sausage scrambled egg cheese ciabatta, 530 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Scrambled Egg",
+        "description": "Freshly scrambled eggs, a simple and satisfying start to your day.",
+        "price": "3.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Eggs",
+            "Butter",
+            "Salt",
+            "Pepper"
+        ],
+        "calories": 280,
+        "category": "Hot Breakfast",
+        "summary": "scrambled egg, freshly scrambled eggs, a simple and satisfying start to your day, $3.99, vegetarian, eggs butter salt pepper, 280 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Scrambled Egg and Cheese on Brioche",
+        "description": "Fluffy scrambled eggs topped with melted cheese on a soft brioche bun.",
+        "price": "4.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Scrambled eggs",
+            "Cheese",
+            "Brioche bun"
+        ],
+        "calories": 400,
+        "category": "Hot Breakfast",
+        "summary": "scrambled egg and cheese on brioche, fluffy scrambled eggs topped with melted cheese on a soft brioche bun, $4.99, vegetarian, scrambled eggs cheese brioche bun, 400 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Scrambled Egg and Cheese on Ciabatta",
+        "description": "Warm scrambled eggs and cheese served on crispy ciabatta.",
+        "price": "4.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Scrambled eggs",
+            "Cheese",
+            "Ciabatta"
+        ],
+        "calories": 410,
+        "category": "Hot Breakfast",
+        "summary": "scrambled egg and cheese on ciabatta, warm scrambled eggs and cheese served on crispy ciabatta, $4.99, vegetarian, scrambled eggs cheese ciabatta, 410 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Apple Cider Vinegar Barbecue Sauce",
+        "description": "A tangy barbecue sauce with a hint of apple cider vinegar.",
+        "price": "0.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Apple cider vinegar",
+            "Tomato paste",
+            "Brown sugar",
+            "Spices"
+        ],
+        "calories": 60,
+        "category": "Dressings and Sauces",
+        "summary": "apple cider vinegar barbecue sauce, a tangy barbecue sauce with a hint of apple cider vinegar, $0.99, vegan, apple cider vinegar tomato paste brown sugar spices, 60 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Caesar Dressing",
+        "description": "Classic Caesar dressing, creamy with a savory parmesan flavor.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mayonnaise",
+            "Parmesan cheese",
+            "Anchovy",
+            "Garlic",
+            "Lemon juice"
+        ],
+        "calories": 170,
+        "category": "Dressings and Sauces",
+        "summary": "caesar dressing, classic caesar dressing, creamy with a savory parmesan flavor, $0.99, vegetarian, mayonnaise parmesan cheese anchovy garlic lemon juice, 170 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chipotle Sauce",
+        "description": "A smoky and slightly spicy sauce that adds a flavorful kick.",
+        "price": "0.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Chipotle peppers",
+            "Adobo",
+            "Tomato",
+            "Garlic",
+            "Vinegar"
+        ],
+        "calories": 80,
+        "category": "Dressings and Sauces",
+        "summary": "chipotle sauce, a smoky and slightly spicy sauce that adds a flavorful kick, $0.99, vegan, chipotle peppers adobo tomato garlic vinegar, 80 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Garlic Aioli",
+        "description": "A rich and creamy aioli made with fresh garlic, perfect for spreading or dipping.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mayonnaise",
+            "Garlic",
+            "Lemon juice",
+            "Olive oil"
+        ],
+        "calories": 100,
+        "category": "Dressings and Sauces",
+        "summary": "garlic aioli, a rich and creamy aioli made with fresh garlic, perfect for spreading or dipping, $0.99, vegetarian, mayonnaise garlic lemon juice olive oil, 100 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Greek Dressing",
+        "description": "A zesty and herbaceous dressing, ideal for Greek salads.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Olive oil",
+            "Vinegar",
+            "Lemon juice",
+            "Garlic",
+            "Oregano"
+        ],
+        "calories": 120,
+        "category": "Dressings and Sauces",
+        "summary": "greek dressing, a zesty and herbaceous dressing, ideal for greek salads, $0.99, vegetarian, olive oil vinegar lemon juice garlic oregano, 120 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Green Goddess Dressing",
+        "description": "A creamy and tangy dressing made with fresh herbs.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mayonnaise",
+            "Sour cream",
+            "Chervil",
+            "Chives",
+            "Tarragon",
+            "Lemon juice"
+        ],
+        "calories": 150,
+        "category": "Dressings and Sauces",
+        "summary": "green goddess dressing, a creamy and tangy dressing made with fresh herbs, $0.99, vegetarian, mayonnaise sour cream chervil chives tarragon lemon juice, 150 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Horseradish Sauce",
+        "description": "A spicy and tangy sauce, perfect for adding a bold flavor to sandwiches.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Horseradish",
+            "Mayonnaise",
+            "Sour cream",
+            "Vinegar"
+        ],
+        "calories": 70,
+        "category": "Dressings and Sauces",
+        "summary": "horseradish sauce, a spicy and tangy sauce, perfect for adding a bold flavor to sandwiches, $0.99, vegetarian, horseradish mayonnaise sour cream vinegar, 70 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Hummus",
+        "description": "Creamy hummus made from blended chickpeas, tahini, lemon juice, and garlic.",
+        "price": "2.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Chickpeas",
+            "Tahini",
+            "Lemon juice",
+            "Garlic",
+            "Olive oil"
+        ],
+        "calories": 210,
+        "category": "Dressings and Sauces",
+        "summary": "hummus, creamy hummus made from blended chickpeas, tahini, lemon juice, and garlic, $2.99, vegan, chickpeas tahini lemon juice garlic olive oil, 210 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Lemon Tahini Dressing",
+        "description": "A smooth and tangy dressing made with tahini and fresh lemon juice.",
+        "price": "0.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Tahini",
+            "Lemon juice",
+            "Garlic",
+            "Water",
+            "Salt"
+        ],
+        "calories": 130,
+        "category": "Dressings and Sauces",
+        "summary": "lemon tahini dressing, a smooth and tangy dressing made with tahini and fresh lemon juice, $0.99, vegan, tahini lemon juice garlic water salt, 130 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Mayonnaise",
+        "description": "Classic creamy mayonnaise, perfect as a spread or for adding richness to dishes.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Egg yolks",
+            "Oil",
+            "Vinegar",
+            "Lemon juice"
+        ],
+        "calories": 90,
+        "category": "Dressings and Sauces",
+        "summary": "mayonnaise, classic creamy mayonnaise, perfect as a spread or for adding richness to dishes, $0.99, vegetarian, egg yolks oil vinegar lemon juice, 90 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Signature Sauce",
+        "description": "Panera's unique blend of spices and ingredients, offering a signature flavor to any meal.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Tomato paste",
+            "Brown sugar",
+            "Vinegar",
+            "Spices",
+            "Smoked paprika"
+        ],
+        "calories": 80,
+        "category": "Dressings and Sauces",
+        "summary": "signature sauce, panera's unique blend of spices and ingredients, offering a signature flavor to any meal, $0.99, vegetarian, tomato paste brown sugar vinegar spices smoked paprika, 80 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Apple",
+        "description": "A fresh and crisp apple, a perfect healthy snack.",
+        "price": "1.29",
+        "type": "Vegan",
+        "ingredients": [
+            "Apple"
+        ],
+        "calories": 95,
+        "category": "Sides",
+        "summary": "apple, a fresh and crisp apple, a perfect healthy snack, $1.29, vegan, apple, 95 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Banana",
+        "description": "A ripe and sweet banana, a natural and nutritious snack option.",
+        "price": "1.29",
+        "type": "Vegan",
+        "ingredients": [
+            "Banana"
+        ],
+        "calories": 105,
+        "category": "Sides",
+        "summary": "banana, a ripe and sweet banana, a natural and nutritious snack option, $1.29, vegan, banana, 105 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Seasonal Fruit Cup",
+        "description": "A delightful mix of the season's best fruits, freshly prepared.",
+        "price": "3.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Melon",
+            "Grapes",
+            "Pineapple",
+            "Berries"
+        ],
+        "calories": 120,
+        "category": "Sides",
+        "summary": "seasonal fruit cup, a delightful mix of the season's best fruits, freshly prepared, $3.99, vegan, melon grapes pineapple berries, 120 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Asiago Bagel",
+        "description": "A savory bagel topped with Asiago cheese, perfect for breakfast or a snack.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Asiago cheese",
+            "Yeast",
+            "Salt"
+        ],
+        "calories": 290,
+        "category": "Bagels",
+        "summary": "asiago bagel, a savory bagel topped with asiago cheese, perfect for breakfast or a snack, $2.49, vegetarian, wheat flour asiago cheese yeast salt, 290 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Blueberry Bagel",
+        "description": "A sweet bagel infused with blueberries, offering a burst of flavor with every bite.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Blueberries",
+            "Sugar",
+            "Yeast"
+        ],
+        "calories": 280,
+        "category": "Bagels",
+        "summary": "blueberry bagel, a sweet bagel infused with blueberries, offering a burst of flavor with every bite, $2.49, vegetarian, wheat flour blueberries sugar yeast, 280 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chocolate Chip Bagel",
+        "description": "A deliciously sweet bagel filled with chocolate chips, perfect for a treat.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Chocolate chips",
+            "Brown sugar",
+            "Yeast"
+        ],
+        "calories": 320,
+        "category": "Bagels",
+        "summary": "chocolate chip bagel, a deliciously sweet bagel filled with chocolate chips, perfect for a treat, $2.49, vegetarian, wheat flour chocolate chips brown sugar yeast, 320 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cinnamon Crunch Bagel",
+        "description": "A sweet and spicy bagel with a satisfying crunch, topped with cinnamon and sugar.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Cinnamon",
+            "Sugar",
+            "Yeast"
+        ],
+        "calories": 300,
+        "category": "Bagels",
+        "summary": "cinnamon crunch bagel, a sweet and spicy bagel with a satisfying crunch, topped with cinnamon and sugar, $2.49, vegetarian, wheat flour cinnamon sugar yeast, 300 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cinnamon Swirl and Raisin Bagel",
+        "description": "A warmly spiced bagel swirled with cinnamon and studded with juicy raisins.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Cinnamon",
+            "Raisins",
+            "Yeast"
+        ],
+        "calories": 310,
+        "category": "Bagels",
+        "summary": "cinnamon swirl and raisin bagel, a warmly spiced bagel swirled with cinnamon and studded with juicy raisins, $2.49, vegetarian, wheat flour cinnamon raisins yeast, 310 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Everything Bagel",
+        "description": "A classic bagel topped with a mix of sesame seeds, poppy seeds, onion, garlic, and salt.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Sesame seeds",
+            "Poppy seeds",
+            "Onion",
+            "Garlic",
+            "Salt"
+        ],
+        "calories": 280,
+        "category": "Bagels",
+        "summary": "everything bagel, a classic bagel topped with a mix of sesame seeds, poppy seeds, onion, garlic, and salt, $2.49, vegetarian, wheat flour sesame seeds poppy seeds onion garlic salt, 280 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Plain Bagel",
+        "description": "A simple, soft, and chewy bagel, perfect for any spread.",
+        "price": "2.29",
+        "type": "Vegan",
+        "ingredients": [
+            "Wheat flour",
+            "Yeast",
+            "Salt",
+            "Water"
+        ],
+        "calories": 270,
+        "category": "Bagels",
+        "summary": "plain bagel, a simple, soft, and chewy bagel, perfect for any spread, $2.29, vegan, wheat flour yeast salt water, 270 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Sprouted Grain Flat Bagel",
+        "description": "A hearty, grain-filled bagel, flat and perfect for sandwiches.",
+        "price": "2.49",
+        "type": "Vegan",
+        "ingredients": [
+            "Wheat flour",
+            "Sprouted grains",
+            "Yeast",
+            "Salt"
+        ],
+        "calories": 260,
+        "category": "Bagels",
+        "summary": "sprouted grain flat bagel, a hearty, grain-filled bagel, flat and perfect for sandwiches, $2.49, vegan, wheat flour sprouted grains yeast salt, 260 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Butter Pat",
+        "description": "A simple pat of butter, perfect for melting over any hot bagel or breakfast item.",
+        "price": "0.59",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Butter"
+        ],
+        "calories": 100,
+        "category": "Spreads",
+        "summary": "butter pat, a simple pat of butter, perfect for melting over any hot bagel or breakfast item, $0.59, vegetarian, butter, 100 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Plain Cream Cheese",
+        "description": "Smooth and creamy plain cream cheese, a classic spread for any bagel.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cream cheese"
+        ],
+        "calories": 150,
+        "category": "Spreads",
+        "summary": "plain cream cheese, smooth and creamy plain cream cheese, a classic spread for any bagel, $0.99, vegetarian, cream cheese, 150 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Blueberry Muffin",
+        "description": "A moist muffin bursting with blueberries and a hint of lemon.",
+        "price": "2.69",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Blueberries",
+            "Sugar",
+            "Eggs",
+            "Lemon zest"
+        ],
+        "calories": 360,
+        "category": "Sweets",
+        "summary": "blueberry muffin, a moist muffin bursting with blueberries and a hint of lemon, $2.69, vegetarian, flour blueberries sugar eggs lemon zest, 360 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chocolate Chip Muffie",
+        "description": "A soft and chewy mini-muffin filled with chocolate chips.",
+        "price": "2.19",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Chocolate chips",
+            "Butter",
+            "Sugar",
+            "Eggs"
+        ],
+        "calories": 310,
+        "category": "Sweets",
+        "summary": "chocolate chip muffie, a soft and chewy mini-muffin filled with chocolate chips, $2.19, vegetarian, flour chocolate chips butter sugar eggs, 310 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chocolate Croissant",
+        "description": "Buttery croissant dough filled with rich chocolate, baked to perfection.",
+        "price": "3.29",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Chocolate",
+            "Yeast",
+            "Salt"
+        ],
+        "calories": 380,
+        "category": "Sweets",
+        "summary": "chocolate croissant, buttery croissant dough filled with rich chocolate, baked to perfection, $3.29, vegetarian, flour butter chocolate yeast salt, 380 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cranberry Orange Muffin",
+        "description": "A tangy and sweet muffin with cranberries and orange zest.",
+        "price": "2.69",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Cranberries",
+            "Sugar",
+            "Orange zest",
+            "Eggs"
+        ],
+        "calories": 370,
+        "category": "Sweets",
+        "summary": "cranberry orange muffin, a tangy and sweet muffin with cranberries and orange zest, $2.69, vegetarian, flour cranberries sugar orange zest eggs, 370 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Plain Cream Cheese",
+        "description": "Smooth and creamy plain cream cheese, a classic spread for any bagel.",
+        "price": "0.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cream cheese"
+        ],
+        "calories": 150,
+        "category": "Spreads",
+        "summary": "plain cream cheese, smooth and creamy plain cream cheese, a classic spread for any bagel, $0.99, vegetarian, cream cheese, 150 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Blueberry Muffin",
+        "description": "A moist muffin bursting with blueberries and a hint of lemon.",
+        "price": "2.69",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Blueberries",
+            "Sugar",
+            "Eggs",
+            "Lemon zest"
+        ],
+        "calories": 360,
+        "category": "Sweets",
+        "summary": "blueberry muffin, a moist muffin bursting with blueberries and a hint of lemon, $2.69, vegetarian, flour blueberries sugar eggs lemon zest, 360 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chocolate Chip Muffie",
+        "description": "A soft and chewy mini-muffin filled with chocolate chips.",
+        "price": "2.19",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Chocolate chips",
+            "Butter",
+            "Sugar",
+            "Eggs"
+        ],
+        "calories": 310,
+        "category": "Sweets",
+        "summary": "chocolate chip muffie, a soft and chewy mini-muffin filled with chocolate chips, $2.19, vegetarian, flour chocolate chips butter sugar eggs, 310 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chocolate Croissant",
+        "description": "Buttery croissant dough filled with rich chocolate, baked to perfection.",
+        "price": "3.29",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Chocolate",
+            "Yeast",
+            "Salt"
+        ],
+        "calories": 380,
+        "category": "Sweets",
+        "summary": "chocolate croissant, buttery croissant dough filled with rich chocolate, baked to perfection, $3.29, vegetarian, flour butter chocolate yeast salt, 380 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Cranberry Orange Muffin",
+        "description": "A tangy and sweet muffin with cranberries and orange zest.",
+        "price": "2.69",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Cranberries",
+            "Sugar",
+            "Orange zest",
+            "Eggs"
+        ],
+        "calories": 370,
+        "category": "Sweets",
+        "summary": "cranberry orange muffin, a tangy and sweet muffin with cranberries and orange zest, $2.69, vegetarian, flour cranberries sugar orange zest eggs, 370 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Orange Scone",
+        "description": "A buttery, flaky scone infused with orange zest and topped with a light glaze.",
+        "price": "2.79",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Sugar",
+            "Orange zest",
+            "Cream"
+        ],
+        "calories": 410,
+        "category": "Sweets",
+        "summary": "orange scone, a buttery, flaky scone infused with orange zest and topped with a light glaze, $2.79, vegetarian, flour butter sugar orange zest cream, 410 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Pumpkin Muffin",
+        "description": "A seasonal favorite, this muffin is spiced with cinnamon and nutmeg and filled with real pumpkin.",
+        "price": "2.69",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Pumpkin",
+            "Sugar",
+            "Eggs",
+            "Cinnamon",
+            "Nutmeg"
+        ],
+        "calories": 350,
+        "category": "Sweets",
+        "summary": "pumpkin muffin, a seasonal favorite, this muffin is spiced with cinnamon and nutmeg and filled with real pumpkin, $2.69, vegetarian, flour pumpkin sugar eggs cinnamon nutmeg, 350 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Vanilla Cinnamon Roll",
+        "description": "A soft and gooey cinnamon roll topped with a rich vanilla frosting.",
+        "price": "3.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Sugar",
+            "Cinnamon",
+            "Vanilla frosting"
+        ],
+        "calories": 470,
+        "category": "Sweets",
+        "summary": "vanilla cinnamon roll, a soft and gooey cinnamon roll topped with a rich vanilla frosting, $3.49, vegetarian, flour butter sugar cinnamon vanilla frosting, 470 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Wild Blueberry Scone",
+        "description": "A tender scone packed with wild blueberries, offering a burst of berry flavor in every bite.",
+        "price": "2.79",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Blueberries",
+            "Butter",
+            "Sugar",
+            "Cream"
+        ],
+        "calories": 420,
+        "category": "Sweets",
+        "summary": "wild blueberry scone, a tender scone packed with wild blueberries, offering a burst of berry flavor in every bite, $2.79, vegetarian, flour blueberries butter sugar cream, 420 calories, panera restaurant",
+        "restaurant": "Panera",
+        "timeopen": "7am",
+        "timeclose": "9pm"
+    }
+]

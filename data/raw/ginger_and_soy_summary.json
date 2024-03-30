@@ -1,0 +1,534 @@
+[
+    {
+        "name": "Garden Salad with Ginger Dressing",
+        "price": "$16",
+        "type": "Vegan",
+        "ingredients": [
+            "Mixed greens",
+            "Carrot",
+            "Tomato",
+            "Cucumber",
+            "Ginger dressing"
+        ],
+        "calories": 150,
+        "category": "Salads",
+        "summary": "garden salad with ginger dressing, mixed greens with carrot, tomato, and cucumber topped with ginger dressing, small $16, large $30, vegan, mixed greens carrot tomato cucumber ginger dressing, 150 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Seaweed Salad",
+        "price": "$20",
+        "type": "Vegan",
+        "ingredients": [
+            "Seaweed",
+            "Sesame seeds",
+            "Cucumber",
+            "Vinegar dressing"
+        ],
+        "calories": 100,
+        "category": "Salads",
+        "summary": "seaweed salad, a refreshing mix of seaweed and cucumber in a light vinegar dressing, sprinkled with sesame seeds, small $20, large $45, vegan, seaweed sesame seeds cucumber vinegar dressing, 100 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Miso Soup",
+        "price": "$16",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Miso paste",
+            "Tofu",
+            "Seaweed",
+            "Green onion"
+        ],
+        "calories": 80,
+        "category": "Soups",
+        "summary": "miso soup, traditional japanese soup with miso paste, tofu, and seaweed, garnished with green onion, small $16, large $32, vegetarian, miso paste tofu seaweed green onion, 80 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Edamame",
+        "price": "$16",
+        "type": "Vegan",
+        "ingredients": [
+            "Edamame",
+            "Salt"
+        ],
+        "calories": 200,
+        "category": "Appetizers",
+        "summary": "edamame, steamed young soybeans lightly salted, $16, vegan, edamame salt, 200 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Vegetable Dumplings",
+        "price": "$16",
+        "type": "Vegan",
+        "ingredients": [
+            "Wheat flour",
+            "Cabbage",
+            "Carrot",
+            "Green onion",
+            "Ginger",
+            "Soy sauce"
+        ],
+        "calories": 250,
+        "category": "Appetizers",
+        "summary": "vegetable dumplings, wheat flour dumplings filled with cabbage, carrot, and green onion, seasoned with ginger and soy sauce, $16, vegan, wheat flour cabbage carrot green onion ginger soy sauce, 250 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chicken Dumplings",
+        "price": "$16",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Chicken",
+            "Cabbage",
+            "Soy sauce",
+            "Ginger"
+        ],
+        "calories": 300,
+        "category": "Appetizers",
+        "summary": "chicken dumplings, wheat flour dumplings filled with tender chicken and cabbage, seasoned with soy sauce and ginger, $16, non-vegetarian, wheat flour chicken cabbage soy sauce ginger, 300 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Shrimp Dumplings",
+        "price": "$16",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Wheat flour",
+            "Shrimp",
+            "Green onion",
+            "Sesame oil",
+            "Soy sauce"
+        ],
+        "calories": 280,
+        "category": "Appetizers",
+        "summary": "shrimp dumplings, delicate wheat flour dumplings filled with shrimp and green onion, flavored with sesame oil and soy sauce, $16, pescatarian, wheat flour shrimp green onion sesame oil soy sauce, 280 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "BBQ Bun",
+        "price": "$19",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Flour",
+            "BBQ pork",
+            "Hoison sauce",
+            "Sugar",
+            "Sesame seeds"
+        ],
+        "calories": 350,
+        "category": "Appetizers",
+        "summary": "bbq bun, fluffy bun filled with savory BBQ pork, glazed with hoison sauce and sprinkled with sesame seeds, $19, non-vegetarian, flour bbq pork hoison sauce sugar sesame seeds, 350 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Fried Spring Roll",
+        "price": "$15",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Pork",
+            "Cabbage",
+            "Carrot",
+            "Mushroom",
+            "Soy sauce"
+        ],
+        "calories": 250,
+        "category": "Appetizers",
+        "summary": "fried spring roll, crispy wheat flour rolls filled with pork, cabbage, and carrot, flavored with soy sauce, $15, non-vegetarian, wheat flour pork cabbage carrot mushroom soy sauce, 250 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "California Hand Roll",
+        "price": "$3.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Nori",
+            "Crab meat",
+            "Avocado",
+            "Cucumber",
+            "Mayonnaise"
+        ],
+        "calories": 180,
+        "category": "Hand Rolls (1pc)",
+        "summary": "california hand roll, a hand roll filled with crab meat, avocado, and cucumber, bound together with mayonnaise, $3.50, pescatarian, nori crab meat avocado cucumber mayonnaise, 180 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+            {
+        "name": "Veggie Hand Roll",
+        "price": "$3.50",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Nori",
+            "Cucumber",
+            "Avocado",
+            "Carrot",
+            "Asparagus"
+        ],
+        "calories": 150,
+        "category": "Hand Rolls (1pc)",
+        "summary": "veggie hand roll, a vegetarian hand roll featuring cucumber, avocado, carrot, and asparagus, $3.50, vegetarian, nori cucumber avocado carrot asparagus, 150 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Shrimp Tempura Hand Roll",
+        "price": "$3.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Nori",
+            "Shrimp tempura",
+            "Avocado",
+            "Cucumber",
+            "Spicy mayo"
+        ],
+        "calories": 200,
+        "category": "Hand Rolls (1pc)",
+        "summary": "shrimp tempura hand roll, crispy shrimp tempura with avocado and cucumber, topped with spicy mayo, $3.50, pescatarian, nori shrimp tempura avocado cucumber spicy mayo, 200 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Spicy Tuna Hand Roll",
+        "price": "$4.00",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Nori",
+            "Spicy tuna mix",
+            "Cucumber",
+            "Sesame seeds"
+        ],
+        "calories": 180,
+        "category": "Hand Rolls (1pc)",
+        "summary": "spicy tuna hand roll, a hand roll filled with spicy tuna mix and cucumber, sprinkled with sesame seeds, $4.00, pescatarian, nori spicy tuna mix cucumber sesame seeds, 180 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Spicy Salmon Hand Roll",
+        "price": "$4.00",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Nori",
+            "Spicy salmon mix",
+            "Cucumber",
+            "Sesame seeds"
+        ],
+        "calories": 190,
+        "category": "Hand Rolls (1pc)",
+        "summary": "spicy salmon hand roll, a hand roll filled with spicy salmon mix and cucumber, sprinkled with sesame seeds, $4.00, pescatarian, nori spicy salmon mix cucumber sesame seeds, 190 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Bulgogi Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Bulgogi beef",
+            "Steamed rice",
+            "Kimchi",
+            "Sesame seeds",
+            "Green onions"
+        ],
+        "calories": 650,
+        "category": "Bowls",
+        "summary": "bulgogi bowl, tender bulgogi beef over steamed rice, served with kimchi, garnished with sesame seeds and green onions, $9.50, non-vegetarian, bulgogi beef steamed rice kimchi sesame seeds green onions, 650 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Spicy Pork Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Spicy marinated pork",
+            "Steamed rice",
+            "Sautéed vegetables",
+            "Sesame seeds"
+        ],
+        "calories": 670,
+        "category": "Bowls",
+        "summary": "spicy pork bowl, marinated pork in a spicy sauce over steamed rice with sautéed vegetables, garnished with sesame seeds, $9.50, non-vegetarian, spicy marinated pork steamed rice sautéed vegetables sesame seeds, 670 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Spicy Chicken Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Spicy chicken",
+            "Steamed rice",
+            "Mixed vegetables",
+            "Sesame seeds"
+        ],
+        "calories": 630,
+        "category": "Bowls",
+        "summary": "spicy chicken bowl, chicken cooked in a spicy sauce served over steamed rice with mixed vegetables, $9.50, non-vegetarian, spicy chicken steamed rice mixed vegetables sesame seeds, 630 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Ginger Chicken Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Ginger marinated chicken",
+            "Steamed rice",
+            "Broccoli",
+            "Carrots",
+            "Sesame seeds"
+        ],
+        "calories": 600,
+        "category": "Bowls",
+        "summary": "ginger chicken bowl, tender chicken marinated in ginger sauce over steamed rice with broccoli and carrots, $9.50, non-vegetarian, ginger marinated chicken steamed rice broccoli carrots sesame seeds, 600 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Teriyaki Chicken Bowl",
+        "price": "$9.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Teriyaki chicken",
+            "Steamed rice",
+            "Mixed greens",
+            "Sesame seeds"
+        ],
+        "calories": 580,
+        "category": "Bowls",
+        "summary": "teriyaki chicken bowl, chicken glazed with teriyaki sauce over steamed rice, accompanied by mixed greens, $9.50, non-vegetarian, teriyaki chicken steamed rice mixed greens sesame seeds, 580 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Teriyaki Salmon Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Teriyaki salmon",
+            "Steamed rice",
+            "Seaweed salad",
+            "Sesame seeds"
+        ],
+        "calories": 650,
+        "category": "Bowls",
+        "summary": "teriyaki salmon bowl, salmon fillet glazed with teriyaki sauce over steamed rice, served with seaweed salad, $10.50, pescatarian, teriyaki salmon steamed rice seaweed salad sesame seeds, 650 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Orange Tofu Bowl",
+        "price": "$8.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Crispy tofu",
+            "Orange sauce",
+            "Steamed rice",
+            "Broccoli"
+        ],
+        "calories": 560,
+        "category": "Bowls",
+        "summary": "orange tofu bowl, crispy tofu tossed in a tangy orange sauce over steamed rice with broccoli, $8.50, vegan, crispy tofu orange sauce steamed rice broccoli, 560 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Korean Bibimbap Bowl",
+        "price": "$10.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Mixed vegetables",
+            "Beef",
+            "Steamed rice",
+            "Egg",
+            "Gochujang sauce"
+        ],
+        "calories": 700,
+        "category": "Bowls",
+        "summary": "korean bibimbap bowl, a traditional Korean dish with mixed vegetables, beef, and an egg over steamed rice, served with gochujang sauce, $10.50, non-vegetarian, mixed vegetables beef steamed rice egg gochujang sauce, 700 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Bang Bang Shrimp Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Crispy shrimp",
+            "Spicy mayo",
+            "Steamed rice",
+            "Cucumber",
+            "Avocado"
+        ],
+        "calories": 640,
+        "category": "Bowls",
+        "summary": "bang bang shrimp bowl, crispy shrimp drizzled with spicy mayo over steamed rice, accompanied by cucumber and avocado, $10.50, pescatarian, crispy shrimp spicy mayo steamed rice cucumber avocado, 640 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Salmon Poke Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Salmon",
+            "Rice",
+            "Edamame",
+            "Cucumber",
+            "Avocado",
+            "Sesame seeds"
+        ],
+        "calories": 650,
+        "category": "Poke Bowls",
+        "summary": "salmon poke bowl, fresh salmon over rice with edamame, cucumber, and avocado, sprinkled with sesame seeds, $10.50, pescatarian, salmon rice edamame cucumber avocado sesame seeds, 650 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Tuna Poke Bowl",
+        "price": "$10.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Tuna",
+            "Rice",
+            "Seaweed salad",
+            "Mango",
+            "Avocado",
+            "Soy sauce"
+        ],
+        "calories": 630,
+        "category": "Poke Bowls",
+        "summary": "tuna poke bowl, fresh tuna over rice with seaweed salad, mango, and avocado, drizzled with soy sauce, $10.50, pescatarian, tuna rice seaweed salad mango avocado soy sauce, 630 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Crawfish Poke Bowl",
+        "price": "$12.50",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Crawfish",
+            "Rice",
+            "Avocado",
+            "Cucumber",
+            "Spicy mayo"
+        ],
+        "calories": 670,
+        "category": "Poke Bowls",
+        "summary": "crawfish poke bowl, succulent crawfish over rice with avocado and cucumber, topped with spicy mayo, $12.50, pescatarian, crawfish rice avocado cucumber spicy mayo, 670 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chicken Salad Poke Bowl",
+        "price": "$10.50",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Grilled chicken",
+            "Mixed greens",
+            "Quinoa",
+            "Avocado",
+            "Sesame dressing"
+        ],
+        "calories": 600,
+        "category": "Poke Bowls",
+        "summary": "chicken salad poke bowl, grilled chicken atop mixed greens and quinoa, with avocado and sesame dressing, $10.50, non-vegetarian, grilled chicken mixed greens quinoa avocado sesame dressing, 600 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Mixed Sashimi Poke Bowl",
+        "price": "$13.00",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Salmon",
+            "Tuna",
+            "Rice",
+            "Seaweed salad",
+            "Edamame",
+            "Soy sauce",
+            "Sesame seeds"
+        ],
+        "calories": 700,
+        "category": "Poke Bowls",
+        "summary": "mixed sashimi poke bowl, an assortment of salmon and tuna over rice, served with seaweed salad and edamame, $13.00, pescatarian, salmon tuna rice seaweed salad edamame soy sauce sesame seeds, 700 calories, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Party of 10",
+        "price": "$100.00",
+        "type": "Varies",
+        "ingredients": [
+            "Choice of rice",
+            "2 entrees",
+            "2 sides",
+            "1 dessert"
+        ],
+        "calories": "Varies",
+        "category": "Catering Party Options",
+        "summary": "party of 10, a catering set for 10 including choice of rice, 2 entrees, 2 sides, and 1 dessert, $100.00, varies, choice of rice 2 entrees 2 sides 1 dessert, calories vary, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Party of 30",
+        "price": "$290.00",
+        "type": "Varies",
+        "ingredients": [
+            "Choice of rice",
+            "3 entrees",
+            "2 sides",
+            "1 dessert"
+        ],
+        "calories": "Varies",
+        "category": "Catering Party Options",
+        "summary": "party of 30, a comprehensive catering set for 30 with choice of rice, 3 entrees, 2 sides, and 1 dessert, $290.00, varies, choice of rice 3 entrees 2 sides 1 dessert, calories vary, ginger and soy restaurant",
+        "restaurant": "Ginger and Soy",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    }
+]

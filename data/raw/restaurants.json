@@ -1,0 +1,191 @@
+[
+  {
+    "open": "false",
+    "name": "Panera",
+    "tags": [
+      "brodhead_center",
+      "coffee",
+      "dining",
+      "dining",
+      "mobile",
+      "west_campus"
+    ],
+    "position": {
+      "latitude": "36.0005840000",
+      "longitude": "-78.9394840000",
+      "google_map": "https://maps.google.com/?q=36.0005840000%2C-78.9394840000"
+    },
+    "place_id": "21055",
+    "location": "Brodhead Center",
+    "phone": "919 660-3932"
+  },
+  {
+    "open": "false",
+    "name": "The Devil's Krafthouse",
+    "tags": ["brodhead_center", "dining", "west_campus"],
+    "position": {
+      "latitude": "36.0007100000",
+      "longitude": "-78.9397130000",
+      "google_map": "https://maps.google.com/?q=36.0007100000%2C-78.9397130000"
+    },
+    "place_id": "21554",
+    "location": "Brodhead Center",
+    "phone": "919-681-8888"
+  },
+  {
+    "open": "false",
+    "name": "The Skillet ",
+    "tags": ["brodhead_center", "dining", "mobile", "west_campus"],
+    "position": {
+      "latitude": "36.0008010000",
+      "longitude": "-78.9396510000",
+      "google_map": "https://maps.google.com/?q=36.0008010000%2C-78.9396510000"
+    },
+    "place_id": "21574",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Ginger & Soy ",
+    "tags": ["brodhead_center", "dining", "mobile", "west_campus"],
+    "position": {
+      "latitude": "36.0009270000",
+      "longitude": "-78.9392170000",
+      "google_map": "https://maps.google.com/?q=36.0009270000%2C-78.9392170000"
+    },
+    "place_id": "21594",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Gyotaku",
+    "tags": ["brodhead_center", "dining", "mobile", "west_campus"],
+    "position": {
+      "latitude": "36.0009840000",
+      "longitude": "-78.9393690000",
+      "google_map": "https://maps.google.com/?q=36.0009840000%2C-78.9393690000"
+    },
+    "place_id": "21614",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Tandoor",
+    "tags": ["brodhead_center", "dining", "west_campus"],
+    "position": {
+      "latitude": "36.0009781565",
+      "longitude": "-78.9394928307",
+      "google_map": "https://maps.google.com/?q=36.0009781565%2C-78.9394928307"
+    },
+    "place_id": "21634",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Cafe",
+    "tags": ["brodhead_center", "coffee", "dining", "west_campus"],
+    "position": {
+      "latitude": "36.0005950000",
+      "longitude": "-78.9392700000",
+      "google_map": "https://maps.google.com/?q=36.0005950000%2C-78.9392700000"
+    },
+    "place_id": "21635",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "The Commons",
+    "tags": ["brodhead_center", "coffee", "dining", "west_campus"],
+    "position": {
+      "latitude": "36.0006070000",
+      "longitude": "-78.9394070000",
+      "google_map": "https://maps.google.com/?q=36.0006070000%2C-78.9394070000"
+    },
+    "place_id": "21636",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Il Forno",
+    "tags": ["brodhead_center", "dining", "mobile", "west_campus"],
+    "position": {
+      "latitude": "36.0006790000",
+      "longitude": "-78.9394230000",
+      "google_map": "https://maps.google.com/?q=36.0006790000%2C-78.9394230000"
+    },
+    "place_id": "21638",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Farmstead",
+    "tags": ["brodhead_center", "dining", "west_campus"],
+    "position": {
+      "latitude": "36.0007930000",
+      "longitude": "-78.9392320000",
+      "google_map": "https://maps.google.com/?q=36.0007930000%2C-78.9392320000"
+    },
+    "place_id": "21639",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Sprout",
+    "tags": ["brodhead_center", "dining", "west_campus"],
+    "position": {
+      "latitude": "36.0008470000",
+      "longitude": "-78.9393080000",
+      "google_map": "https://maps.google.com/?q=36.0008470000%2C-78.9393080000"
+    },
+    "place_id": "21640",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "JB's Roasts and Chops",
+    "tags": ["brodhead_center", "dining", "mobile", "west_campus"],
+    "position": {
+      "latitude": "36.0009380000",
+      "longitude": "-78.9395600000",
+      "google_map": "https://maps.google.com/?q=36.0009380000%2C-78.9395600000"
+    },
+    "place_id": "21641",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "Sazon",
+    "tags": ["brodhead_center", "dining", "mobile", "west_campus"],
+    "position": {
+      "latitude": "36.0006070000",
+      "longitude": "-78.9393310000",
+      "google_map": "https://maps.google.com/?q=36.0006070000%2C-78.9393310000"
+    },
+    "place_id": "21694",
+    "location": "Brodhead Center",
+    "phone": ""
+  },
+  {
+    "open": "false",
+    "name": "The Chef's Kitchen",
+    "tags": ["dining"],
+    "position": {
+      "latitude": "36.0005950000",
+      "longitude": "-78.9392700000",
+      "google_map": "https://maps.google.com/?q=36.0005950000%2C-78.9392700000"
+    },
+    "place_id": "5",
+    "location": "Brodhead Center ",
+    "phone": ""
+  }
+]

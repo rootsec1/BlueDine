@@ -1,0 +1,1117 @@
+[
+    {
+        "name": "Chicken Parmesan Panini",
+        "description": "Grilled chicken with parmesan cheese on toasted bread.",
+        "price": "7.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Chicken breast",
+            "Parmesan cheese",
+            "Marinara sauce",
+            "Basil",
+            "Panini bread"
+        ],
+        "calories": 600,
+        "category": "Paninis",
+        "summary": "Chicken Parmesan Panini, Grilled chicken with parmesan cheese on toasted bread, $7.99, Poultry, Chicken breast Parmesan cheese Marinara sauce Basil Panini bread, 600 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chicken Pesto Panini",
+        "description": "Juicy chicken with rich pesto sauce in a crispy panini.",
+        "price": "8.49",
+        "type": "Poultry",
+        "ingredients": [
+            "Chicken breast",
+            "Pesto sauce",
+            "Mozzarella cheese",
+            "Panini bread"
+        ],
+        "calories": 650,
+        "category": "Paninis",
+        "summary": "Chicken Pesto Panini, Juicy chicken with rich pesto sauce in a crispy panini, $8.49, Poultry, Chicken breast Pesto sauce Mozzarella cheese Panini bread, 650 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "French Beef Panini",
+        "description": "Tender beef with caramelized onions and melted cheese.",
+        "price": "9.99",
+        "type": "Beef",
+        "ingredients": [
+            "Roast beef",
+            "Caramelized onions",
+            "Swiss cheese",
+            "Mustard",
+            "Panini bread"
+        ],
+        "calories": 700,
+        "category": "Paninis",
+        "summary": "French Beef Panini, Tender beef with caramelized onions and melted cheese, $9.99, Beef, Roast beef Caramelized onions Swiss cheese Mustard Panini bread, 700 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Grilled Ratatouille Panini",
+        "description": "A delightful vegetarian panini with a medley of roasted vegetables.",
+        "price": "7.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Zucchini",
+            "Eggplant",
+            "Red pepper",
+            "Onion",
+            "Tomato sauce",
+            "Panini bread"
+        ],
+        "calories": 450,
+        "category": "Paninis",
+        "summary": "Grilled Ratatouille Panini, A delightful vegetarian panini with a medley of roasted vegetables, $7.49, Vegetarian, Zucchini Eggplant Red pepper Onion Tomato sauce Panini bread, 450 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Greek Salad",
+        "description": "Classic Greek salad with feta cheese and Kalamata olives.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Lettuce",
+            "Feta cheese",
+            "Kalamata olives",
+            "Cucumbers",
+            "Tomatoes",
+            "Red onions",
+            "Greek dressing"
+        ],
+        "calories": 300,
+        "category": "Salads and Bowls",
+        "summary": "Greek Salad, Classic Greek salad with feta cheese and Kalamata olives, $6.99, Vegetarian, Lettuce Feta cheese Kalamata olives Cucumbers Tomatoes Red onions Greek dressing, 300 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Salmon Bowl",
+        "description": "Grilled salmon over a bed of rice with fresh vegetables.",
+        "price": "11.99",
+        "type": "Seafood",
+        "ingredients": [
+            "Grilled salmon",
+            "Brown rice",
+            "Avocado",
+            "Edamame",
+            "Carrots",
+            "Sesame seeds"
+        ],
+        "calories": 700,
+        "category": "Salads and Bowls",
+        "summary": "Salmon Bowl, Grilled salmon over a bed of rice with fresh vegetables, $11.99, Seafood, Grilled salmon Brown rice Avocado Edamame Carrots Sesame seeds, 700 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Salmon Garden Salad",
+        "description": "Fresh garden salad topped with a fillet of salmon.",
+        "price": "10.99",
+        "type": "Seafood",
+        "ingredients": [
+            "Salmon fillet",
+            "Mixed greens",
+            "Tomatoes",
+            "Cucumbers",
+            "Red onions",
+            "Balsamic vinaigrette"
+        ],
+        "calories": 550,
+        "category": "Salads and Bowls",
+        "summary": "Salmon Garden Salad, Fresh garden salad topped with a fillet of salmon, $10.99, Seafood, Salmon fillet Mixed greens Tomatoes Cucumbers Red onions Balsamic vinaigrette, 550 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Southwest Chicken Bowl",
+        "description": "Spicy chicken with black beans and corn over rice.",
+        "price": "8.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Spicy chicken",
+            "Black beans",
+            "Corn",
+            "Rice",
+            "Avocado",
+            "Cilantro",
+            "Lime"
+        ],
+        "calories": 650,
+        "category": "Salads and Bowls",
+        "summary": "Southwest Chicken Bowl, Spicy chicken with black beans and corn over rice, $8.99, Poultry, Spicy chicken Black beans Corn Rice Avocado Cilantro Lime, 650 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Vegan Buddah Bowl",
+        "description": "A hearty bowl filled with quinoa, chickpeas, and an array of vegetables.",
+        "price": "7.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Quinoa",
+            "Chickpeas",
+            "Spinach",
+            "Carrots",
+            "Beets",
+            "Tahini dressing"
+        ],
+        "calories": 500,
+        "category": "Salads and Bowls",
+        "summary": "Vegan Buddah Bowl, A hearty bowl filled with quinoa, chickpeas, and an array of vegetables, $7.99, Vegan, Quinoa Chickpeas Spinach Carrots Beets Tahini dressing, 500 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Dijonaise",
+        "description": "A creamy blend of Dijon mustard and mayonnaise.",
+        "price": "0.99",
+        "type": "Condiment",
+        "ingredients": [
+            "Dijon mustard",
+            "Mayonnaise"
+        ],
+        "calories": 150,
+        "category": "Dressings",
+        "summary": "Dijonaise, A creamy blend of Dijon mustard and mayonnaise, $0.99, Condiment, Dijon mustard Mayonnaise, 150 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Jalapeno Aioli",
+        "description": "Spicy and tangy aioli sauce with a kick of jalapeno.",
+        "price": "0.99",
+        "type": "Condiment",
+        "ingredients": [
+            "Mayonnaise",
+            "Jalapeno peppers",
+            "Garlic",
+            "Lemon juice"
+        ],
+        "calories": 100,
+        "category": "Dressings",
+        "summary": "Jalapeno Aioli, Spicy and tangy aioli sauce with a kick of jalapeno, $0.99, Condiment, Mayonnaise Jalapeno peppers Garlic Lemon juice, 100 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "White French Dressing",
+        "description": "A smooth and creamy dressing with a mild flavor.",
+        "price": "0.99",
+        "type": "Condiment",
+        "ingredients": [
+            "Vinegar",
+            "Sugar",
+            "Mayonnaise",
+            "Mustard seeds"
+        ],
+        "calories": 120,
+        "category": "Dressings",
+        "summary": "White French Dressing, A smooth and creamy dressing with a mild flavor, $0.99, Condiment, Vinegar Sugar Mayonnaise Mustard seeds, 120 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Classic Lasagna",
+        "description": "Layers of pasta with beef ragu and creamy b\u00e9chamel sauce.",
+        "price": "6.99",
+        "type": "Entree",
+        "ingredients": [
+            "Pasta",
+            "Ground beef",
+            "Tomato sauce",
+            "Bechamel sauce",
+            "Parmesan cheese"
+        ],
+        "calories": 750,
+        "category": "Heat and Eat",
+        "summary": "Classic Lasagna, Layers of pasta with beef ragu and creamy b\u00e9chamel sauce, $6.99, Entree, Pasta Ground beef Tomato sauce Bechamel sauce Parmesan cheese, 750 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Gourmet Mac N Cheese",
+        "description": "Rich and creamy macaroni and cheese with a gourmet twist.",
+        "price": "5.99",
+        "type": "Entree",
+        "ingredients": [
+            "Macaroni",
+            "Cheddar cheese",
+            "Milk",
+            "Butter",
+            "Bread crumbs"
+        ],
+        "calories": 550,
+        "category": "Heat and Eat",
+        "summary": "Gourmet Mac N Cheese, Rich and creamy macaroni and cheese with a gourmet twist, $5.99, Entree, Macaroni Cheddar cheese Milk Butter Bread crumbs, 550 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Tomato Basil Bisque",
+        "description": "A creamy tomato soup infused with fresh basil.",
+        "price": "3.99",
+        "type": "Soup",
+        "ingredients": [
+            "Tomatoes",
+            "Basil",
+            "Cream",
+            "Vegetable stock"
+        ],
+        "calories": 200,
+        "category": "Heat and Eat",
+        "summary": "Tomato Basil Bisque, A creamy tomato soup infused with fresh basil, $3.99, Soup, Tomatoes Basil Cream Vegetable stock, 200 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Apple Moroccan Couscous",
+        "description": "Sweet apples and fluffy couscous with Moroccan spices.",
+        "price": "2.99",
+        "type": "Side",
+        "ingredients": [
+            "Couscous",
+            "Apples",
+            "Cinnamon",
+            "Sugar",
+            "Almonds"
+        ],
+        "calories": 350,
+        "category": "Snack Boxes and Sides",
+        "summary": "Apple Moroccan Couscous, Sweet apples and fluffy couscous with Moroccan spices, $2.99, Side, Couscous Apples Cinnamon Sugar Almonds, 350 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chicken Salad Snack Box",
+        "description": "A convenient snack box with homemade chicken salad.",
+        "price": "4.99",
+        "type": "Snack",
+        "ingredients": [
+            "Chicken breast",
+            "Mayonnaise",
+            "Celery",
+            "Mustard",
+            "Lettuce"
+        ],
+        "calories": 450,
+        "category": "Snack Boxes and Sides",
+        "summary": "Chicken Salad Snack Box, A convenient snack box with homemade chicken salad, $4.99, Snack, Chicken breast Mayonnaise Celery Mustard Lettuce, 450 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Farm Fresh Eggs",
+        "description": "A duo of hard-boiled eggs, a healthy and protein-rich snack.",
+        "price": "1.99",
+        "type": "Snack",
+        "ingredients": [
+            "Eggs"
+        ],
+        "calories": 140,
+        "category": "Snack Boxes and Sides",
+        "summary": "Farm Fresh Eggs, A duo of hard-boiled eggs, a healthy and protein-rich snack, $1.99, Snack, Eggs, 140 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Feta Cilantro Bowtie Salad",
+        "description": "Bowtie pasta salad with feta cheese and fresh cilantro.",
+        "price": "3.49",
+        "type": "Salad",
+        "ingredients": [
+            "Bowtie pasta",
+            "Feta cheese",
+            "Cilantro",
+            "Olive oil",
+            "Lemon juice"
+        ],
+        "calories": 400,
+        "category": "Snack Boxes and Sides",
+        "summary": "Feta Cilantro Bowtie Salad, Bowtie pasta salad with feta cheese and fresh cilantro, $3.49, Salad, Bowtie pasta Feta cheese Cilantro Olive oil Lemon juice, 400 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Fruit Cup",
+        "description": "A mix of seasonal fresh fruits for a refreshing snack.",
+        "price": "2.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Melon",
+            "Pineapple",
+            "Grapes",
+            "Berries"
+        ],
+        "calories": 100,
+        "category": "Snack Boxes and Sides",
+        "summary": "Fruit Cup, A mix of seasonal fresh fruits for a refreshing snack, $2.99, Vegan, Melon Pineapple Grapes Berries, 100 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Garbanzo Greek Salad",
+        "description": "A Mediterranean-inspired salad with chickpeas and Greek flavors.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chickpeas",
+            "Feta cheese",
+            "Olives",
+            "Cucumber",
+            "Tomato",
+            "Red onion",
+            "Greek dressing"
+        ],
+        "calories": 320,
+        "category": "Snack Boxes and Sides",
+        "summary": "Garbanzo Greek Salad, A Mediterranean-inspired salad with chickpeas and Greek flavors, $6.99, Vegetarian, Chickpeas Feta cheese Olives Cucumber Tomato Red onion Greek dressing, 320 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Hummus and Pita Cup",
+        "description": "Creamy hummus served with soft pita bread for dipping.",
+        "price": "3.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chickpeas",
+            "Tahini",
+            "Lemon juice",
+            "Garlic",
+            "Pita bread"
+        ],
+        "calories": 250,
+        "category": "Snack Boxes and Sides",
+        "summary": "Hummus and Pita Cup, Creamy hummus served with soft pita bread for dipping, $3.99, Vegetarian, Chickpeas Tahini Lemon juice Garlic Pita bread, 250 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Mediterranean Snack Box",
+        "description": "A selection of Mediterranean favorites for a savory snack.",
+        "price": "5.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Hummus",
+            "Feta cheese",
+            "Olives",
+            "Cucumbers",
+            "Pita chips"
+        ],
+        "calories": 400,
+        "category": "Snack Boxes and Sides",
+        "summary": "Mediterranean Snack Box, A selection of Mediterranean favorites for a savory snack, $5.99, Vegetarian, Hummus Feta cheese Olives Cucumbers Pita chips, 400 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Penne Pesto Salad",
+        "description": "Penne pasta tossed with vibrant pesto and fresh vegetables.",
+        "price": "4.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Penne pasta",
+            "Pesto sauce",
+            "Cherry tomatoes",
+            "Parmesan cheese"
+        ],
+        "calories": 450,
+        "category": "Snack Boxes and Sides",
+        "summary": "Penne Pesto Salad, Penne pasta tossed with vibrant pesto and fresh vegetables, $4.99, Vegetarian, Penne pasta Pesto sauce Cherry tomatoes Parmesan cheese, 450 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Pita Crisps",
+        "description": "Crispy and lightly salted pita chips perfect for snacking.",
+        "price": "1.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Pita bread",
+            "Olive oil",
+            "Sea salt"
+        ],
+        "calories": 200,
+        "category": "Snack Boxes and Sides",
+        "summary": "Pita Crisps, Crispy and lightly salted pita chips perfect for snacking, $1.99, Vegan, Pita bread Olive oil Sea salt, 200 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Strawberry Fruit Cup",
+        "description": "Fresh strawberries in their natural juice.",
+        "price": "2.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Strawberries"
+        ],
+        "calories": 50,
+        "category": "Snack Boxes and Sides",
+        "summary": "Strawberry Fruit Cup, Fresh strawberries in their natural juice, $2.99, Vegan, Strawberries, 50 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Turkey Snack Box",
+        "description": "A protein-packed snack box with turkey and cheese.",
+        "price": "5.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Turkey breast",
+            "Cheddar cheese",
+            "Crackers",
+            "Grapes"
+        ],
+        "calories": 350,
+        "category": "Snack Boxes and Sides",
+        "summary": "Turkey Snack Box, A protein-packed snack box with turkey and cheese, $5.99, Poultry, Turkey breast Cheddar cheese Crackers Grapes, 350 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Buffalo Chicken Pita",
+        "description": "Spicy buffalo chicken wrapped in a soft pita with lettuce and ranch dressing.",
+        "price": "7.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Chicken breast",
+            "Buffalo sauce",
+            "Pita bread",
+            "Lettuce",
+            "Ranch dressing"
+        ],
+        "calories": 500,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Buffalo Chicken Pita, Spicy buffalo chicken wrapped in a soft pita with lettuce and ranch dressing, $7.99, Poultry, Chicken breast Buffalo sauce Pita bread Lettuce Ranch dressing, 500 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chicken Salad Brioche",
+        "description": "Homemade chicken salad served on a soft brioche bun.",
+        "price": "6.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Chicken salad",
+            "Brioche bun",
+            "Lettuce",
+            "Tomato"
+        ],
+        "calories": 550,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Chicken Salad Brioche, Homemade chicken salad served on a soft brioche bun, $6.99, Poultry, Chicken salad Brioche bun Lettuce Tomato, 550 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chicken Salad Croissant",
+        "description": "Classic chicken salad sandwich served on a flaky croissant.",
+        "price": "6.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Chicken salad",
+            "Croissant",
+            "Mixed greens"
+        ],
+        "calories": 600,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Chicken Salad Croissant, Classic chicken salad sandwich served on a flaky croissant, $6.99, Poultry, Chicken salad Croissant Mixed greens, 600 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chicken Shawarma",
+        "description": "Marinated chicken with spices, served with tahini sauce in a wrap.",
+        "price": "8.49",
+        "type": "Poultry",
+        "ingredients": [
+            "Chicken",
+            "Shawarma spices",
+            "Tahini sauce",
+            "Lettuce",
+            "Tomato",
+            "Wrap"
+        ],
+        "calories": 700,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Chicken Shawarma, Marinated chicken with spices, served with tahini sauce in a wrap, $8.49, Poultry, Chicken Shawarma spices Tahini sauce Lettuce Tomato Wrap, 700 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Falafel on Pita",
+        "description": "Middle Eastern chickpea patties served in a warm pita with tahini sauce.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Falafel",
+            "Pita bread",
+            "Tahini sauce",
+            "Lettuce",
+            "Tomato",
+            "Cucumber"
+        ],
+        "calories": 550,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Falafel on Pita, Middle Eastern chickpea patties served in a warm pita with tahini sauce, $6.99, Vegetarian, Falafel Pita bread Tahini sauce Lettuce Tomato Cucumber, 550 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Hummus Veggie Wrap",
+        "description": "A healthy wrap filled with hummus and assorted fresh vegetables.",
+        "price": "5.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Hummus",
+            "Tortilla wrap",
+            "Carrots",
+            "Cucumbers",
+            "Bell peppers",
+            "Spinach"
+        ],
+        "calories": 450,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Hummus Veggie Wrap, A healthy wrap filled with hummus and assorted fresh vegetables, $5.99, Vegan, Hummus Tortilla wrap Carrots Cucumbers Bell peppers Spinach, 450 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Southwest Turkey Wrap",
+        "description": "Sliced turkey with a spicy southwest sauce and veggies in a wrap.",
+        "price": "7.49",
+        "type": "Poultry",
+        "ingredients": [
+            "Turkey",
+            "Southwest sauce",
+            "Tortilla wrap",
+            "Corn",
+            "Black beans",
+            "Lettuce",
+            "Cheese"
+        ],
+        "calories": 600,
+        "category": "Sandwiches, Wraps and More",
+        "summary": "Southwest Turkey Wrap, Sliced turkey with a spicy southwest sauce and veggies in a wrap, $7.49, Poultry, Turkey Southwest sauce Tortilla wrap Corn Black beans Lettuce Cheese, 600 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Apple and Brie Crepe",
+        "description": "Sweet apples and creamy brie cheese nestled in a delicate crepe.",
+        "price": "8.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Crepe",
+            "Apples",
+            "Brie cheese",
+            "Cinnamon"
+        ],
+        "calories": 500,
+        "category": "Crepe",
+        "summary": "Apple and Brie Crepe, Sweet apples and creamy brie cheese nestled in a delicate crepe, $8.99, Vegetarian, Crepe Apples Brie cheese Cinnamon, 500 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chicken Pesto Crepe",
+        "description": "Grilled chicken with pesto sauce wrapped in a savory crepe.",
+        "price": "9.49",
+        "type": "Poultry",
+        "ingredients": [
+            "Crepe",
+            "Grilled chicken",
+            "Pesto sauce",
+            "Mozzarella cheese"
+        ],
+        "calories": 650,
+        "category": "Crepe",
+        "summary": "Chicken Pesto Crepe, Grilled chicken with pesto sauce wrapped in a savory crepe, $9.49, Poultry, Crepe Grilled chicken Pesto sauce Mozzarella cheese, 650 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Croque Monsieur Crepe",
+        "description": "Classic French ham and cheese crepe topped with b\u00e9chamel sauce.",
+        "price": "9.99",
+        "type": "Poultry",
+        "ingredients": [
+            "Crepe",
+            "Ham",
+            "Gruyere cheese",
+            "Bechamel sauce"
+        ],
+        "calories": 700,
+        "category": "Crepe",
+        "summary": "Croque Monsieur Crepe, Classic French ham and cheese crepe topped with b\u00e9chamel sauce, $9.99, Poultry, Crepe Ham Gruyere cheese Bechamel sauce, 700 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Florentine Crepe",
+        "description": "A crepe filled with spinach, mushrooms, and feta cheese.",
+        "price": "8.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Crepe",
+            "Spinach",
+            "Mushrooms",
+            "Feta cheese",
+            "White sauce"
+        ],
+        "calories": 550,
+        "category": "Crepe",
+        "summary": "Florentine Crepe, A crepe filled with spinach, mushrooms, and feta cheese, $8.99, Vegetarian, Crepe Spinach Mushrooms Feta cheese White sauce, 550 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Banana",
+        "description": "Fresh banana, perfect as a crepe filling or on the side.",
+        "price": "0.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Banana"
+        ],
+        "calories": 105,
+        "category": "Crepe Add Ons",
+        "summary": "Banana, Fresh banana, perfect as a crepe filling or on the side, $0.99, Vegan, Banana, 105 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Homemade Whipped Cream",
+        "description": "Light and airy whipped cream, made in-house.",
+        "price": "0.50",
+        "type": "Dairy",
+        "ingredients": [
+            "Heavy cream",
+            "Sugar"
+        ],
+        "calories": 45,
+        "category": "Crepe Add Ons",
+        "summary": "Homemade Whipped Cream, Light and airy whipped cream, made in-house, $0.50, Dairy, Heavy cream Sugar, 45 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Strawberry",
+        "description": "Fresh strawberries, a sweet addition to any dessert.",
+        "price": "1.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Strawberries"
+        ],
+        "calories": 32,
+        "category": "Crepe Add Ons",
+        "summary": "Strawberry, Fresh strawberries, a sweet addition to any dessert, $1.00, Vegan, Strawberries, 32 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Black and White Cookie",
+        "description": "Iconic New York-style cookie with a soft base and chocolate and vanilla icing.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Eggs",
+            "Vanilla icing",
+            "Chocolate icing"
+        ],
+        "calories": 350,
+        "category": "Pastries All Day",
+        "summary": "Black and White Cookie, Iconic New York-style cookie with a soft base and chocolate and vanilla icing, $2.49, Vegetarian, Flour Sugar Eggs Vanilla icing Chocolate icing, 350 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Cheesecake Brownie",
+        "description": "Rich chocolate brownie with a swirl of cheesecake.",
+        "price": "3.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chocolate",
+            "Cream cheese",
+            "Sugar",
+            "Flour",
+            "Eggs"
+        ],
+        "calories": 500,
+        "category": "Pastries All Day",
+        "summary": "Cheesecake Brownie, Rich chocolate brownie with a swirl of cheesecake, $3.99, Vegetarian, Chocolate Cream cheese Sugar Flour Eggs, 500 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Chocolate Chip Cookie",
+        "description": "Classic cookie loaded with chocolate chips and a hint of sea salt.",
+        "price": "1.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Brown sugar",
+            "Chocolate chips",
+            "Butter",
+            "Eggs",
+            "Sea salt"
+        ],
+        "calories": 280,
+        "category": "Pastries All Day",
+        "summary": "Chocolate Chip Cookie, Classic cookie loaded with chocolate chips and a hint of sea salt, $1.99, Vegetarian, Flour Brown sugar Chocolate chips Butter Eggs Sea salt, 280 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Death by Chocolate Cake",
+        "description": "Decadent chocolate layer cake with rich chocolate frosting.",
+        "price": "4.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chocolate",
+            "Flour",
+            "Sugar",
+            "Cocoa powder",
+            "Butter",
+            "Eggs"
+        ],
+        "calories": 780,
+        "category": "Pastries All Day",
+        "summary": "Death by Chocolate Cake, Decadent chocolate layer cake with rich chocolate frosting, $4.99, Vegetarian, Chocolate Flour Sugar Cocoa powder Butter Eggs, 780 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Frosted Chocolate Cupcake",
+        "description": "Moist chocolate cupcake topped with creamy chocolate frosting.",
+        "price": "2.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chocolate",
+            "Sugar",
+            "Flour",
+            "Eggs",
+            "Butter",
+            "Chocolate frosting"
+        ],
+        "calories": 370,
+        "category": "Pastries All Day",
+        "summary": "Frosted Chocolate Cupcake, Moist chocolate cupcake topped with creamy chocolate frosting, $2.99, Vegetarian, Chocolate Sugar Flour Eggs Butter Chocolate frosting, 370 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Frosted Cookies and Cream Cupcake",
+        "description": "Vanilla cupcake with cookies and cream frosting and cookie crumble.",
+        "price": "3.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Butter",
+            "Eggs",
+            "Cookies and cream frosting",
+            "Cookie crumble"
+        ],
+        "calories": 400,
+        "category": "Pastries All Day",
+        "summary": "Frosted Cookies and Cream Cupcake, Vanilla cupcake with cookies and cream frosting and cookie crumble, $3.49, Vegetarian, Flour Sugar Butter Eggs Cookies and cream frosting Cookie crumble, 400 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Frosted Strawberry Lemonade Cupcake",
+        "description": "Lemon cupcake with strawberry frosting, reminiscent of strawberry lemonade.",
+        "price": "3.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Lemon zest",
+            "Sugar",
+            "Butter",
+            "Eggs",
+            "Strawberry frosting"
+        ],
+        "calories": 380,
+        "category": "Pastries All Day",
+        "summary": "Frosted Strawberry Lemonade Cupcake, Lemon cupcake with strawberry frosting, reminiscent of strawberry lemonade, $3.49, Vegetarian, Flour Lemon zest Sugar Butter Eggs Strawberry frosting, 380 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Frosted Vanilla Cupcake",
+        "description": "Classic vanilla cupcake with a smooth vanilla buttercream frosting.",
+        "price": "2.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Butter",
+            "Eggs",
+            "Vanilla extract",
+            "Vanilla frosting"
+        ],
+        "calories": 350,
+        "category": "Pastries All Day",
+        "summary": "Frosted Vanilla Cupcake, Classic vanilla cupcake with a smooth vanilla buttercream frosting, $2.99, Vegetarian, Flour Sugar Butter Eggs Vanilla extract Vanilla frosting, 350 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Fudge Brownie",
+        "description": "Dense and fudgy brownie with a crackly top.",
+        "price": "2.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chocolate",
+            "Sugar",
+            "Butter",
+            "Flour",
+            "Eggs"
+        ],
+        "calories": 480,
+        "category": "Pastries All Day",
+        "summary": "Fudge Brownie, Dense and fudgy brownie with a crackly top, $2.49, Vegetarian, Chocolate Sugar Butter Flour Eggs, 480 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Lemon Bar",
+        "description": "Tart and sweet lemon bar with a buttery shortbread crust.",
+        "price": "3.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Lemon juice",
+            "Sugar",
+            "Flour",
+            "Butter",
+            "Eggs"
+        ],
+        "calories": 320,
+        "category": "Pastries All Day",
+        "summary": "Lemon Bar, Tart and sweet lemon bar with a buttery shortbread crust, $3.49, Vegetarian, Lemon juice Sugar Flour Butter Eggs, 320 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Lemon Pound Cake",
+        "description": "Moist pound cake with a bright lemon flavor and a sweet glaze.",
+        "price": "3.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Lemon zest",
+            "Sugar",
+            "Butter",
+            "Eggs",
+            "Lemon glaze"
+        ],
+        "calories": 420,
+        "category": "Pastries All Day",
+        "summary": "Lemon Pound Cake, Moist pound cake with a bright lemon flavor and a sweet glaze, $3.99, Vegetarian, Flour Lemon zest Sugar Butter Eggs Lemon glaze, 420 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Oatmeal Raisin Cookies",
+        "description": "Chewy oatmeal cookies with plump raisins and a hint of cinnamon.",
+        "price": "1.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Oats",
+            "Raisins",
+            "Flour",
+            "Sugar",
+            "Eggs",
+            "Cinnamon"
+        ],
+        "calories": 110,
+        "category": "Pastries All Day",
+        "summary": "Oatmeal Raisin Cookies, Chewy oatmeal cookies with plump raisins and a hint of cinnamon, $1.99, Vegetarian, Oats Raisins Flour Sugar Eggs Cinnamon, 110 calories per cookie CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Pumpkin Sweet Bread",
+        "description": "Seasonal sweet bread with pumpkin puree and fall spices.",
+        "price": "3.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Pumpkin puree",
+            "Flour",
+            "Sugar",
+            "Eggs",
+            "Cinnamon",
+            "Nutmeg"
+        ],
+        "calories": 370,
+        "category": "Pastries All Day",
+        "summary": "Pumpkin Sweet Bread, Seasonal sweet bread with pumpkin puree and fall spices, $3.49, Vegetarian, Pumpkin puree Flour Sugar Eggs Cinnamon Nutmeg, 370 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Shortdough Cookie",
+        "description": "Buttery and crumbly shortdough cookies, a simple and delightful treat.",
+        "price": "1.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Butter",
+            "Sugar"
+        ],
+        "calories": 160,
+        "category": "Pastries All Day",
+        "summary": "Shortdough Cookie, Buttery and crumbly shortdough cookies, a simple and delightful treat, $1.49, Vegetarian, Flour Butter Sugar, 160 calories per cookie CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Strawberry Shortcake Cake",
+        "description": "Light and fluffy cake with fresh strawberries and whipped cream.",
+        "price": "4.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Eggs",
+            "Strawberries",
+            "Whipped cream"
+        ],
+        "calories": 380,
+        "category": "Pastries All Day",
+        "summary": "Strawberry Shortcake Cake, Light and fluffy cake with fresh strawberries and whipped cream, $4.99, Vegetarian, Flour Sugar Eggs Strawberries Whipped cream, 380 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Tiramisu Cake",
+        "description": "Classic Italian dessert with layers of coffee-soaked sponge and mascarpone cream.",
+        "price": "5.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Sponge cake",
+            "Coffee",
+            "Mascarpone cheese",
+            "Cocoa powder",
+            "Sugar"
+        ],
+        "calories": 450,
+        "category": "Pastries All Day",
+        "summary": "Tiramisu Cake, Classic Italian dessert with layers of coffee-soaked sponge and mascarpone cream, $5.49, Vegetarian, Sponge cake Coffee Mascarpone cheese Cocoa powder Sugar, 450 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Cappuccino Gelato",
+        "description": "Creamy gelato with a rich coffee flavor.",
+        "price": "3.99",
+        "type": "Dairy",
+        "ingredients": [
+            "Milk",
+            "Sugar",
+            "Coffee"
+        ],
+        "calories": 210,
+        "category": "Gelato Bar",
+        "summary": "Cappuccino Gelato, Creamy gelato with a rich coffee flavor, $3.99, Dairy, Milk Sugar Coffee, 210 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Banana",
+        "description": "Ripe banana slices to top off your gelato.",
+        "price": "0.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Banana"
+        ],
+        "calories": 105,
+        "category": "Gelato Bar Add Ons",
+        "summary": "Banana, Ripe banana slices to top off your gelato, $0.50, Vegan, Banana, 105 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    },
+    {
+        "name": "Strawberry",
+        "description": "Fresh strawberry slices, a sweet and fruity addition to your dessert.",
+        "price": "0.50",
+        "type": "Vegan",
+        "ingredients": [
+            "Strawberries"
+        ],
+        "calories": 32,
+        "category": "Gelato Bar Add Ons",
+        "summary": "Strawberry, Fresh strawberry slices, a sweet and fruity addition to your dessert, $0.50, Vegan, Strawberries, 32 calories CaFe Restaurant, CaFe Restaurant",
+        "restaurant": "CaFe",
+        "timeopen": "7:30am",
+        "timeclose": "10pm"
+    }
+]

@@ -1,0 +1,1241 @@
+[
+    {
+        "name": "Breakfast Potato Bowl",
+        "description": "A hearty bowl of seasoned breakfast potatoes, topped with melted cheese and fresh herbs.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Breakfast potatoes",
+            "Cheese",
+            "Herbs"
+        ],
+        "calories": 350,
+        "category": "Available 11:00 AM-2:00 PM",
+        "summary": "breakfast potato bowl, a hearty bowl of seasoned breakfast potatoes, topped with melted cheese and fresh herbs, $6.99, vegetarian, breakfast potatoes cheese herbs, 350 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Breakfast Potatoes",
+        "description": "Crispy on the outside, fluffy on the inside, these breakfast potatoes are seasoned to perfection.",
+        "price": "4.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Potatoes",
+            "Olive oil",
+            "Seasoning blend"
+        ],
+        "calories": 250,
+        "category": "Available 11:00 AM-2:00 PM",
+        "summary": "breakfast potatoes, crispy on the outside, fluffy on the inside, these breakfast potatoes are seasoned to perfection, $4.99, vegan, potatoes olive oil seasoning blend, 250 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Egg and Cheese Sandwich",
+        "description": "A classic breakfast sandwich with fluffy eggs and melted cheese on a toasted brioche bun.",
+        "price": "5.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Eggs",
+            "Cheese",
+            "Brioche bun"
+        ],
+        "calories": 400,
+        "category": "Available 11:00 AM-2:00 PM",
+        "summary": "egg and cheese sandwich, a classic breakfast sandwich with fluffy eggs and melted cheese on a toasted brioche bun, $5.99, vegetarian, eggs cheese brioche bun, 400 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Southwest Wrap",
+        "description": "Spicy and filling, this wrap combines eggs, black beans, cheese, and salsa in a soft tortilla.",
+        "price": "7.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Eggs",
+            "Black beans",
+            "Cheese",
+            "Salsa",
+            "Tortilla"
+        ],
+        "calories": 450,
+        "category": "Available 11:00 AM-2:00 PM",
+        "summary": "southwest wrap, spicy and filling, this wrap combines eggs, black beans, cheese, and salsa in a soft tortilla, $7.99, vegetarian, eggs black beans cheese salsa tortilla, 450 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Vegetable Goat Cheese Bowl",
+        "description": "A delightful mix of sautéed vegetables and creamy goat cheese served over quinoa.",
+        "price": "8.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Vegetables",
+            "Goat cheese",
+            "Quinoa"
+        ],
+        "calories": 380,
+        "category": "Available 11:00 AM-2:00 PM",
+        "summary": "vegetable goat cheese bowl, a delightful mix of sautéed vegetables and creamy goat cheese served over quinoa, $8.99, vegetarian, vegetables goat cheese quinoa, 380 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Battered Dill Pickle Chips",
+        "description": "Crispy battered dill pickle chips, served with a creamy ranch dipping sauce.",
+        "price": "5.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Dill pickles",
+            "Batter",
+            "Ranch sauce"
+        ],
+        "calories": 290,
+        "category": "Small Plates",
+        "summary": "battered dill pickle chips, crispy battered dill pickle chips, served with a creamy ranch dipping sauce, $5.99, vegetarian, dill pickles batter ranch sauce, 290 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Battered Onion Rings",
+        "description": "Golden and crunchy onion rings with a side of spicy ketchup for dipping.",
+        "price": "6.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Onions",
+            "Batter",
+            "Spicy ketchup"
+        ],
+        "calories": 340,
+        "category": "Small Plates",
+        "summary": "battered onion rings, golden and crunchy onion rings with a side of spicy ketchup for dipping, $6.99, vegan, onions batter spicy ketchup, 340 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Cheese Curds",
+        "description": "Wisconsin cheese curds, lightly breaded and fried until golden brown, served with marinara sauce.",
+        "price": "7.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cheese curds",
+            "Breading",
+            "Marinara sauce"
+        ],
+        "calories": 470,
+        "category": "Small Plates",
+        "summary": "cheese curds, wisconsin cheese curds, lightly breaded and fried until golden brown, served with marinara sauce, $7.99, vegetarian, cheese curds breading marinara sauce, 470 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Chicken Tenders",
+        "description": "Juicy chicken tenders, served with your choice of dipping sauce.",
+        "price": "8.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Chicken",
+            "Breading",
+            "Choice of sauce"
+        ],
+        "calories": 510,
+        "category": "Small Plates",
+        "summary": "chicken tenders, juicy chicken tenders, served with your choice of dipping sauce, $8.99, non-vegetarian, chicken breading choice of sauce, 510 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Chicken Wings",
+        "description": "Crispy wings tossed in your choice of sauce or rub, a perfect shareable appetizer.",
+        "price": "9.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Chicken wings",
+            "Choice of sauce or rub"
+        ],
+        "calories": 580,
+        "category": "Small Plates",
+        "summary": "chicken wings, crispy wings tossed in your choice of sauce or rub, a perfect shareable appetizer, $9.99, non-vegetarian, chicken wings choice of sauce or rub, 580 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Fresh Cut Fries",
+        "description": "Hand-cut potatoes fried to perfection, served with your choice of dipping sauce.",
+        "price": "4.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Potatoes",
+            "Choice of sauce"
+        ],
+        "calories": 420,
+        "category": "Small Plates",
+        "summary": "fresh cut fries, hand-cut potatoes fried to perfection, served with your choice of dipping sauce, $4.99, vegan, potatoes choice of sauce, 420 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "House Made Chips",
+        "description": "Crispy, seasoned potato chips made in-house, perfect for snacking.",
+        "price": "3.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Potatoes",
+            "Seasoning"
+        ],
+        "calories": 390,
+        "category": "Small Plates",
+        "summary": "house made chips, crispy, seasoned potato chips made in-house, perfect for snacking, $3.99, vegan, potatoes seasoning, 390 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Hummus Plate",
+        "description": "Creamy hummus served with fresh vegetables and warm pita bread.",
+        "price": "7.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Hummus",
+            "Vegetables",
+            "Pita bread"
+        ],
+        "calories": 460,
+        "category": "Small Plates",
+        "summary": "hummus plate, creamy hummus served with fresh vegetables and warm pita bread, $7.99, vegetarian, hummus vegetables pita bread, 460 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Loaded Chips",
+        "description": "House made chips topped with cheese, bacon, green onions, and sour cream.",
+        "price": "6.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Potato chips",
+            "Cheese",
+            "Bacon",
+            "Green onions",
+            "Sour cream"
+        ],
+        "calories": 540,
+        "category": "Small Plates",
+        "summary": "loaded chips, house made chips topped with cheese, bacon, green onions, and sour cream, $6.99, non-vegetarian, potato chips cheese bacon green onions sour cream, 540 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Loaded Fries",
+        "description": "Fresh cut fries loaded with melted cheese, chopped bacon, and chives, served with ranch.",
+        "price": "6.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Fries",
+            "Cheese",
+            "Bacon",
+            "Chives",
+            "Ranch dressing"
+        ],
+        "calories": 560,
+        "category": "Small Plates",
+        "summary": "loaded fries, fresh cut fries loaded with melted cheese, chopped bacon, and chives, served with ranch, $6.99, non-vegetarian, fries cheese bacon chives ranch dressing, 560 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Loaded Sweet Potato Tots",
+        "description": "Crispy sweet potato tots topped with melted cheese, sour cream, and fresh green onions.",
+        "price": "7.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Sweet potato tots",
+            "Cheese",
+            "Sour cream",
+            "Green onions"
+        ],
+        "calories": 530,
+        "category": "Small Plates",
+        "summary": "loaded sweet potato tots, crispy sweet potato tots topped with melted cheese, sour cream, and fresh green onions, $7.99, vegetarian, sweet potato tots cheese sour cream green onions, 530 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Nachos",
+        "description": "Tortilla chips layered with cheese, jalapeños, black beans, and salsa, topped with sour cream.",
+        "price": "8.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Tortilla chips",
+            "Cheese",
+            "Jalapeños",
+            "Black beans",
+            "Salsa",
+            "Sour cream"
+        ],
+        "calories": 620,
+        "category": "Small Plates",
+        "summary": "nachos, tortilla chips layered with cheese, jalapeños, black beans, and salsa, topped with sour cream, $8.99, vegetarian, tortilla chips cheese jalapeños black beans salsa sour cream, 620 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Sweet Potato Tots",
+        "description": "Sweet and crispy sweet potato tots, served with a side of honey mustard for dipping.",
+        "price": "6.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Sweet potato tots",
+            "Honey mustard"
+        ],
+        "calories": 450,
+        "category": "Small Plates",
+        "summary": "sweet potato tots, sweet and crispy sweet potato tots, served with a side of honey mustard for dipping, $6.99, vegan, sweet potato tots honey mustard, 450 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Vegan Crispy Garden Tenders",
+        "description": "Crispy and flavorful vegan tenders made from garden vegetables, served with your choice of dipping sauce.",
+        "price": "7.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Vegan tenders",
+            "Choice of sauce"
+        ],
+        "calories": 410,
+        "category": "Small Plates",
+        "summary": "vegan crispy garden tenders, crispy and flavorful vegan tenders made from garden vegetables, served with your choice of dipping sauce, $7.99, vegan, vegan tenders choice of sauce, 410 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Barbecue Sauce",
+        "description": "A smoky and tangy barbecue sauce, perfect for adding a sweet and tangy flavor to any dish.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Tomato paste",
+            "Vinegar",
+            "Sugar",
+            "Spices"
+        ],
+        "calories": "50 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "barbecue sauce, a smoky and tangy sauce perfect for adding flavor, included with small plates, additional $0.50 for extra, vegan, tomato paste vinegar sugar spices, 50 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Buffalo Sauce",
+        "description": "A spicy and buttery buffalo sauce that brings heat and depth to wings and tenders.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cayenne pepper",
+            "Vinegar",
+            "Butter",
+            "Garlic powder"
+        ],
+        "calories": "70 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "buffalo sauce, a spicy and buttery sauce that adds heat, included with small plates, additional $0.50 for extra, vegetarian, cayenne pepper vinegar butter garlic powder, 70 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Buttermilk Ranch Dressing",
+        "description": "A creamy and herby ranch dressing, ideal for dipping or drizzling over your favorite small plate.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Buttermilk",
+            "Mayonnaise",
+            "Herbs",
+            "Garlic"
+        ],
+        "calories": "110 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "buttermilk ranch dressing, creamy and herby, perfect for dipping, included with small plates, additional $0.50 for extra, vegetarian, buttermilk mayonnaise herbs garlic, 110 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Dry Rub",
+        "description": "A savory blend of spices that adds a burst of flavor to any dish without extra sauce.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Paprika",
+            "Brown sugar",
+            "Dried herbs",
+            "Spices"
+        ],
+        "calories": "30 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "dry rub, a savory blend of spices, included with small plates, additional $0.50 for extra, vegan, paprika brown sugar dried herbs spices, 30 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Duke Reaper Crazy Hot Sauce",
+        "description": "An extremely hot sauce made with Carolina Reaper peppers, for those who love a fiery challenge.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Carolina Reaper peppers",
+            "Vinegar",
+            "Spices"
+        ],
+        "calories": "5 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "duke reaper crazy hot sauce, extremely hot, made with Carolina Reaper peppers, included with small plates, additional $0.50 for extra, vegan, Carolina Reaper peppers vinegar spices, 5 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Honey Butter",
+        "description": "A sweet and creamy blend of honey and butter, perfect for adding a touch of sweetness.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Honey",
+            "Butter"
+        ],
+        "calories": "120 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "honey butter, sweet and creamy, perfect for adding sweetness, included with small plates, additional $0.50 for extra, vegetarian, honey butter, 120 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Honey Mustard Sauce",
+        "description": "A classic combination of sweet honey and tangy mustard, ideal for chicken tenders and fries.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Honey",
+            "Mustard"
+        ],
+        "calories": "90 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "honey mustard sauce, classic sweet and tangy, ideal for chicken tenders and fries, included with small plates, additional $0.50 for extra, vegetarian, honey mustard, 90 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Ketchup",
+        "description": "The classic condiment, made from tomatoes and a blend of spices and vinegar, for fries and more.",
+        "price": "Included with small plates, additional $0.50 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Tomato",
+            "Vinegar",
+            "Sugar",
+            "Spices"
+        ],
+        "calories": "20 per serving",
+        "category": "Small Plate Sauces and Rubs",
+        "summary": "ketchup, classic tomato-based condiment, perfect for fries, included with small plates, additional $0.50 for extra, vegan, tomato vinegar sugar spices, 20 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Ginger Salmon Salad",
+        "description": "Grilled salmon atop a bed of mixed greens, avocado, and cucumber, dressed with a ginger lime vinaigrette.",
+        "price": "15.99",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Salmon",
+            "Mixed greens",
+            "Avocado",
+            "Cucumber",
+            "Ginger lime vinaigrette"
+        ],
+        "calories": 520,
+        "category": "Salads",
+        "summary": "ginger salmon salad, grilled salmon on mixed greens with avocado and cucumber, ginger lime vinaigrette, $15.99, pescatarian, salmon mixed greens avocado cucumber ginger lime vinaigrette, 520 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Mixed Arugula Salad",
+        "description": "Fresh arugula mixed with cherry tomatoes, parmesan, nuts, and a balsamic reduction.",
+        "price": "10.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Arugula",
+            "Cherry tomatoes",
+            "Parmesan",
+            "Nuts",
+            "Balsamic reduction"
+        ],
+        "calories": 460,
+        "category": "Salads",
+        "summary": "mixed arugula salad, fresh arugula with cherry tomatoes, parmesan, nuts, and balsamic reduction, $10.99, vegetarian, arugula cherry tomatoes parmesan nuts balsamic reduction, 460 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Southwest Chicken Cobb Salad",
+        "description": "A hearty cobb salad with a Southwest twist, featuring grilled chicken, avocado, black beans, corn, and a cilantro lime dressing.",
+        "price": "13.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Grilled chicken",
+            "Avocado",
+            "Black beans",
+            "Corn",
+            "Cilantro lime dressing"
+        ],
+        "calories": 650,
+        "category": "Salads",
+        "summary": "southwest chicken cobb salad, a hearty cobb with a twist, grilled chicken, avocado, beans, corn, cilantro lime dressing, $13.99, non-vegetarian, grilled chicken avocado black beans corn cilantro lime dressing, 650 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Balsamic Vinaigrette Dressing",
+        "description": "A classic emulsion of balsamic vinegar and olive oil, seasoned with herbs for a tangy finish.",
+        "price": "Included with salad, additional $0.75 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Balsamic vinegar",
+            "Olive oil",
+            "Herbs"
+        ],
+        "calories": "45 per serving",
+        "category": "Salad Dressings",
+        "summary": "balsamic vinaigrette dressing, classic emulsion of balsamic vinegar and olive oil, seasoned with herbs, included with salad, additional $0.75 for extra, vegan, balsamic vinegar olive oil herbs, 45 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Buttermilk Ranch Dressing",
+        "description": "A creamy dressing made with buttermilk, mayonnaise, and a blend of spices, perfect for dipping or dressing.",
+        "price": "Included with salad, additional $0.75 for extra",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Buttermilk",
+            "Mayonnaise",
+            "Spices"
+        ],
+        "calories": "110 per serving",
+        "category": "Salad Dressings",
+        "summary": "buttermilk ranch dressing, creamy made with buttermilk, mayonnaise, and spices, included with salad, additional $0.75 for extra, vegetarian, buttermilk mayonnaise spices, 110 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Cilantro Citrus Vinaigrette",
+        "description": "A zesty and fresh dressing combining citrus juices and cilantro for a bright salad addition.",
+        "price": "Included with salad, additional $0.75 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Citrus juice",
+            "Cilantro",
+            "Olive oil"
+        ],
+        "calories": "50 per serving",
+        "category": "Salad Dressings",
+        "summary": "cilantro citrus vinaigrette, zesty and fresh combining citrus juices and cilantro, included with salad, additional $0.75 for extra, vegan, citrus juice cilantro olive oil, 50 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Ginger Dressing",
+        "description": "A vibrant and slightly spicy dressing made with fresh ginger, perfect for adding an Asian twist.",
+        "price": "Included with salad, additional $0.75 for extra",
+        "type": "Vegan",
+        "ingredients": [
+            "Ginger",
+            "Soy sauce",
+            "Sesame oil"
+        ],
+        "calories": "60 per serving",
+        "category": "Salad Dressings",
+        "summary": "ginger dressing, vibrant and slightly spicy made with fresh ginger, included with salad, additional $0.75 for extra, vegan, ginger soy sauce sesame oil, 60 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Honey Mustard Sauce",
+        "description": "A sweet and tangy sauce that doubles as a dressing, combining honey and mustard for a versatile flavor.",
+        "price": "Included with salad, additional $0.75 for extra",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Honey",
+            "Mustard"
+        ],
+        "calories": "70 per serving",
+        "category": "Salad Dressings",
+        "summary": "honey mustard sauce, sweet and tangy combining honey and mustard, included with salad, additional $0.75 for extra, vegetarian, honey mustard, 70 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "French Baguette",
+        "description": "A crusty and light French baguette, perfect for hearty sandwiches.",
+        "price": "Included with sandwich, additional $1.00 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Yeast",
+            "Salt",
+            "Water"
+        ],
+        "calories": "200 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "french baguette, crusty and light, perfect for hearty sandwiches, included with sandwich, additional $1.00 for extra base, vegetarian, wheat flour yeast salt water, 200 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Gluten Free Artisan Bread",
+        "description": "A flavorful, gluten-free option for those with dietary restrictions, offering a soft texture.",
+        "price": "Included with sandwich, additional $1.50 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Gluten-free flour blend",
+            "Yeast",
+            "Salt",
+            "Water"
+        ],
+        "calories": "180 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "gluten free artisan bread, flavorful and soft, for those with dietary restrictions, included with sandwich, additional $1.50 for extra base, vegetarian, gluten-free flour blend yeast salt water, 180 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Lettuce Leaf Wrap",
+        "description": "A low-carb, crisp lettuce leaf, ideal for wrapping sandwiches and burritos for a fresh bite.",
+        "price": "Included with sandwich, additional $0.75 for an extra base",
+        "type": "Vegan",
+        "ingredients": [
+            "Lettuce"
+        ],
+        "calories": "5 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "lettuce leaf wrap, low-carb and crisp, ideal for fresh wraps, included with sandwich, additional $0.75 for extra base, vegan, lettuce, 5 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Marble Rye Bread",
+        "description": "A dense and flavorful bread with a distinct swirl, perfect for sandwiches with a gourmet touch.",
+        "price": "Included with sandwich, additional $1.00 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Rye flour",
+            "Wheat flour",
+            "Yeast",
+            "Cocoa",
+            "Coffee"
+        ],
+        "calories": "210 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "marble rye bread, dense and flavorful with a distinct swirl, included with sandwich, additional $1.00 for extra base, vegetarian, rye flour wheat flour yeast cocoa coffee, 210 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Multigrain Bread",
+        "description": "A hearty and nutritious option, made with a blend of whole grains for a rich, complex flavor.",
+        "price": "Included with sandwich, additional $1.00 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Whole wheat flour",
+            "Oats",
+            "Flaxseeds",
+            "Yeast",
+            "Salt",
+            "Water"
+        ],
+        "calories": "220 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "multigrain bread, hearty and nutritious with a blend of whole grains, included with sandwich, additional $1.00 for extra base, vegetarian, whole wheat flour oats flaxseeds yeast salt water, 220 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Sourdough Bread",
+        "description": "A tangy and crusty sourdough bread that adds a distinct flavor to any sandwich.",
+        "price": "Included with sandwich, additional $1.00 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Sourdough starter",
+            "Salt",
+            "Water"
+        ],
+        "calories": "210 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "sourdough bread, tangy and crusty, adds a distinct flavor to sandwiches, included with sandwich, additional $1.00 for extra base, vegetarian, wheat flour sourdough starter salt water, 210 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Tomato Basil Flour Tortilla 12\"",
+        "description": "A flavorful tortilla infused with tomato and basil, perfect for wraps and burritos.",
+        "price": "Included with sandwich, additional $1.25 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Flour",
+            "Tomato powder",
+            "Basil",
+            "Salt",
+            "Water"
+        ],
+        "calories": "190 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "tomato basil flour tortilla 12\", flavorful infused with tomato and basil, perfect for wraps and burritos, included with sandwich, additional $1.25 for extra base, vegetarian, flour tomato powder basil salt water, 190 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "White Hamburger Bun",
+        "description": "A classic, soft, and fluffy hamburger bun, lightly toasted for extra flavor.",
+        "price": "Included with sandwich, additional $1.00 for an extra base",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Wheat flour",
+            "Yeast",
+            "Sugar",
+            "Salt",
+            "Water"
+        ],
+        "calories": "200 per serving",
+        "category": "Sandwich/Wrap/Burrito Base",
+        "summary": "white hamburger bun, classic, soft, and fluffy, lightly toasted for extra flavor, included with sandwich, additional $1.00 for extra base, vegetarian, wheat flour yeast sugar salt water, 200 calories per serving, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Avocado Toast Plate",
+        "description": "Creamy avocado spread on artisan multigrain bread, topped with poached eggs and a sprinkle of chili flakes.",
+        "price": "9.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Avocado",
+            "Multigrain bread",
+            "Poached eggs",
+            "Chili flakes"
+        ],
+        "calories": 450,
+        "category": "Handhelds",
+        "summary": "avocado toast plate, creamy avocado on artisan multigrain bread with poached eggs and chili flakes, $9.99, vegetarian, avocado multigrain bread poached eggs chili flakes, 450 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "BBQ Chicken Sandwich",
+        "description": "Juicy grilled chicken smothered in BBQ sauce, topped with coleslaw on a brioche bun.",
+        "price": "10.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Grilled chicken",
+            "BBQ sauce",
+            "Coleslaw",
+            "Brioche bun"
+        ],
+        "calories": 600,
+        "category": "Handhelds",
+        "summary": "bbq chicken sandwich, juicy grilled chicken in BBQ sauce with coleslaw on a brioche bun, $10.99, non-vegetarian, grilled chicken BBQ sauce coleslaw brioche bun, 600 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Buffalo Tender Sandwich",
+        "description": "Crispy chicken tenders tossed in buffalo sauce, with lettuce and tomato on a soft bun, served with ranch dressing.",
+        "price": "11.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Chicken tenders",
+            "Buffalo sauce",
+            "Lettuce",
+            "Tomato",
+            "Soft bun",
+            "Ranch dressing"
+        ],
+        "calories": 650,
+        "category": "Handhelds",
+        "summary": "buffalo tender sandwich, crispy tenders in buffalo sauce with lettuce and tomato on a soft bun, ranch dressing, $11.99, non-vegetarian, chicken tenders buffalo sauce lettuce tomato soft bun ranch dressing, 650 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Cheese Quesadilla",
+        "description": "A simple yet delicious quesadilla filled with melted cheese, served with salsa and sour cream on the side.",
+        "price": "8.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Cheese",
+            "Tortilla",
+            "Salsa",
+            "Sour cream"
+        ],
+        "calories": 520,
+        "category": "Handhelds",
+        "summary": "cheese quesadilla, filled with melted cheese, served with salsa and sour cream, $8.99, vegetarian, cheese tortilla salsa sour cream, 520 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Flame Grilled Chicken",
+        "description": "A perfectly grilled chicken breast, seasoned with herbs and served on a ciabatta with lettuce, tomato, and mayo.",
+        "price": "11.49",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Grilled chicken breast",
+            "Herbs",
+            "Ciabatta",
+            "Lettuce",
+            "Tomato",
+            "Mayo"
+        ],
+        "calories": 580,
+        "category": "Handhelds",
+        "summary": "flame grilled chicken, seasoned and served on ciabatta with lettuce, tomato, and mayo, $11.49, non-vegetarian, grilled chicken breast herbs ciabatta lettuce tomato mayo, 580 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Flank Steak French Dip",
+        "description": "Tender flank steak on a toasted baguette, served with a flavorful au jus for dipping.",
+        "price": "12.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Flank steak",
+            "Baguette",
+            "Au jus"
+        ],
+        "calories": 620,
+        "category": "Handhelds",
+        "summary": "flank steak french dip, tender steak on baguette with au jus for dipping, $12.99, non-vegetarian, flank steak baguette au jus, 620 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Grilled Mahi Mahi",
+        "description": "Lightly seasoned Mahi Mahi, grilled to perfection and served on a brioche bun with a side of tartar sauce.",
+        "price": "13.99",
+        "type": "Pescatarian",
+        "ingredients": [
+            "Mahi Mahi",
+            "Seasoning",
+            "Brioche bun",
+            "Tartar sauce"
+        ],
+        "calories": 560,
+        "category": "Handhelds",
+        "summary": "grilled mahi mahi, seasoned and grilled, served on brioche bun with tartar sauce, $13.99, pescatarian, mahi mahi seasoning brioche bun tartar sauce, 560 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Jack Fruit BBQ",
+        "description": "Shredded jackfruit cooked in a homemade BBQ sauce, served on a gluten-free bun for a delightful vegan twist.",
+        "price": "10.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Jackfruit",
+            "BBQ sauce",
+            "Gluten-free bun"
+        ],
+        "calories": 510,
+        "category": "Handhelds",
+        "summary": "jack fruit bbq, shredded and cooked in homemade BBQ sauce, on a gluten-free bun, $10.99, vegan, jackfruit BBQ sauce gluten-free bun, 510 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "BBQ Bacon Burger",
+        "description": "A juicy burger topped with crispy bacon, smothered in BBQ sauce, and finished with cheddar cheese and onion rings.",
+        "price": "12.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Bacon",
+            "BBQ sauce",
+            "Cheddar cheese",
+            "Onion rings"
+        ],
+        "calories": 780,
+        "category": "Burgers",
+        "summary": "bbq bacon burger, juicy burger with bacon, BBQ sauce, cheddar, and onion rings, $12.99, non-vegetarian, beef patty bacon BBQ sauce cheddar cheese onion rings, 780 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Brecky Burger",
+        "description": "A breakfast-inspired burger featuring a beef patty, a fried egg, bacon, and American cheese, served on a toasted brioche bun.",
+        "price": "13.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Fried egg",
+            "Bacon",
+            "American cheese",
+            "Brioche bun"
+        ],
+        "calories": 850,
+        "category": "Burgers",
+        "summary": "brecky burger, breakfast-inspired with beef patty, fried egg, bacon, and cheese on brioche, $13.99, non-vegetarian, beef patty fried egg bacon American cheese brioche bun, 850 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Brie and Bacon Jam Burger",
+        "description": "An upscale burger with creamy brie, savory bacon jam, and arugula, on an artisan bun.",
+        "price": "14.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Brie",
+            "Bacon jam",
+            "Arugula",
+            "Artisan bun"
+        ],
+        "calories": 760,
+        "category": "Burgers",
+        "summary": "brie and bacon jam burger, upscale with creamy brie, savory bacon jam, and arugula on artisan bun, $14.99, non-vegetarian, beef patty brie bacon jam arugula artisan bun, 760 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Diablo Burger",
+        "description": "For those who like it hot, this burger comes with jalapeños, pepper jack cheese, and a spicy aioli.",
+        "price": "12.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Jalapeños",
+            "Pepper jack cheese",
+            "Spicy aioli"
+        ],
+        "calories": 800,
+        "category": "Burgers",
+        "summary": "diablo burger, spicy with jalapeños, pepper jack, and spicy aioli, $12.99, non-vegetarian, beef patty jalapeños pepper jack cheese spicy aioli, 800 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Impossible Burger",
+        "description": "A plant-based burger that looks and tastes like beef, topped with lettuce, tomato, and vegan mayo, served on a vegan bun.",
+        "price": "14.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Impossible patty",
+            "Lettuce",
+            "Tomato",
+            "Vegan mayo",
+            "Vegan bun"
+        ],
+        "calories": 480,
+        "category": "Burgers",
+        "summary": "impossible burger, plant-based burger with lettuce, tomato, and vegan mayo on vegan bun, $14.99, vegan, impossible patty lettuce tomato vegan mayo vegan bun, 480 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Krafthouse Burger",
+        "description": "Signature burger with a beef patty, cheddar cheese, lettuce, tomato, onion, and Krafthouse special sauce.",
+        "price": "13.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Cheddar cheese",
+            "Lettuce",
+            "Tomato",
+            "Onion",
+            "Special sauce"
+        ],
+        "calories": 750,
+        "category": "Burgers",
+        "summary": "krafthouse burger, signature with beef patty, cheddar, lettuce, tomato, onion, and special sauce, $13.99, non-vegetarian, beef patty cheddar cheese lettuce tomato onion special sauce, 750 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Loaded Pastrami Burger",
+        "description": "A loaded delight featuring a beef patty topped with thinly sliced pastrami, Swiss cheese, sauerkraut, and mustard on rye.",
+        "price": "15.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Pastrami",
+            "Swiss cheese",
+            "Sauerkraut",
+            "Mustard",
+            "Rye bread"
+        ],
+        "calories": 820,
+        "category": "Burgers",
+        "summary": "loaded pastrami burger, beef patty topped with pastrami, Swiss, sauerkraut, and mustard on rye, $15.99, non-vegetarian, beef patty pastrami Swiss cheese sauerkraut mustard rye bread, 820 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Mushroom Swiss Burger",
+        "description": "A classic combination of sautéed mushrooms and melted Swiss cheese atop a juicy beef patty.",
+        "price": "12.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Mushrooms",
+            "Swiss cheese"
+        ],
+        "calories": 710,
+        "category": "Burgers",
+        "summary": "mushroom swiss burger, classic combo of sautéed mushrooms and Swiss cheese on beef patty, $12.99, non-vegetarian, beef patty mushrooms Swiss cheese, 710 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Queso Burger",
+        "description": "Spicy and cheesy, this burger is smothered in queso sauce and jalapeños, served with a side of tortilla chips.",
+        "price": "13.99",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Beef patty",
+            "Queso sauce",
+            "Jalapeños",
+            "Tortilla chips"
+        ],
+        "calories": 790,
+        "category": "Burgers",
+        "summary": "queso burger, spicy and cheesy, smothered in queso sauce and jalapeños, with tortilla chips, $13.99, non-vegetarian, beef patty queso sauce jalapeños tortilla chips, 790 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Ice Cream Sandwich",
+        "description": "Homemade vanilla ice cream sandwiched between two decadent chocolate chip cookies, dusted with powdered sugar.",
+        "price": "5.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Vanilla ice cream",
+            "Chocolate chip cookies",
+            "Powdered sugar"
+        ],
+        "calories": 420,
+        "category": "Desserts",
+        "summary": "ice cream sandwich, homemade vanilla ice cream between chocolate chip cookies, dusted with powdered sugar, $5.99, vegetarian, vanilla ice cream chocolate chip cookies powdered sugar, 420 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Cappuccino Chip Shake",
+        "description": "A rich and creamy milkshake blended with real cappuccino and chocolate chips, topped with whipped cream.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Ice cream",
+            "Cappuccino",
+            "Chocolate chips",
+            "Whipped cream"
+        ],
+        "calories": 560,
+        "category": "Housemade Milkshakes",
+        "summary": "cappuccino chip shake, blended with real cappuccino and chocolate chips, topped with whipped cream, $6.99, vegetarian, ice cream cappuccino chocolate chips whipped cream, 560 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Cappuccino Shake",
+        "description": "Creamy milkshake with a strong cappuccino flavor, served with a dusting of cocoa powder on top.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Ice cream",
+            "Cappuccino",
+            "Cocoa powder"
+        ],
+        "calories": 530,
+        "category": "Housemade Milkshakes",
+        "summary": "cappuccino shake, creamy with a strong cappuccino flavor, dusted with cocoa powder, $6.99, vegetarian, ice cream cappuccino cocoa powder, 530 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Chocolate Chip Shake",
+        "description": "A delightful blend of vanilla ice cream and chocolate chips, topped with a chocolate syrup drizzle.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Vanilla ice cream",
+            "Chocolate chips",
+            "Chocolate syrup"
+        ],
+        "calories": 550,
+        "category": "Housemade Milkshakes",
+        "summary": "chocolate chip shake, vanilla ice cream and chocolate chips, topped with chocolate syrup, $6.99, vegetarian, vanilla ice cream chocolate chips chocolate syrup, 550 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Chocolate Oreo Shake",
+        "description": "Chocolate ice cream and crushed Oreos, blended until smooth and garnished with an Oreo cookie.",
+        "price": "7.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chocolate ice cream",
+            "Oreos"
+        ],
+        "calories": 590,
+        "category": "Housemade Milkshakes",
+        "summary": "chocolate oreo shake, chocolate ice cream and crushed Oreos, garnished with an Oreo cookie, $7.99, vegetarian, chocolate ice cream Oreos, 590 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Chocolate Shake",
+        "description": "Classic chocolate shake made with rich chocolate ice cream, topped with whipped cream and a cherry.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Chocolate ice cream",
+            "Whipped cream",
+            "Cherry"
+        ],
+        "calories": 580,
+        "category": "Housemade Milkshakes",
+        "summary": "chocolate shake, made with rich chocolate ice cream, topped with whipped cream and a cherry, $6.99, vegetarian, chocolate ice cream whipped cream cherry, 580 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Mint Chocolate Chip Shake",
+        "description": "Refreshing mint-flavored shake with chocolate chips, crowned with whipped cream and chocolate drizzle.",
+        "price": "7.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mint ice cream",
+            "Chocolate chips",
+            "Whipped cream",
+            "Chocolate drizzle"
+        ],
+        "calories": 600,
+        "category": "Housemade Milkshakes",
+        "summary": "mint chocolate chip shake, refreshing mint with chocolate chips, whipped cream, and chocolate drizzle, $7.49, vegetarian, mint ice cream chocolate chips whipped cream chocolate drizzle, 600 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Mint Oreo Shake",
+        "description": "A creamy blend of mint ice cream and Oreo cookies, topped with whipped cream and an Oreo cookie.",
+        "price": "7.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mint ice cream",
+            "Oreo cookies",
+            "Whipped cream"
+        ],
+        "calories": 620,
+        "category": "Housemade Milkshakes",
+        "summary": "mint oreo shake, creamy blend of mint ice cream and Oreo cookies, topped with whipped cream, $7.99, vegetarian, mint ice cream Oreo cookies whipped cream, 620 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Mint Shake",
+        "description": "Smooth and cool mint shake, simple yet deliciously refreshing, topped with whipped cream.",
+        "price": "6.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Mint ice cream",
+            "Whipped cream"
+        ],
+        "calories": 560,
+        "category": "Housemade Milkshakes",
+        "summary": "mint shake, smooth and cool, simple yet deliciously refreshing, topped with whipped cream, $6.99, vegetarian, mint ice cream whipped cream, 560 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    },
+    {
+        "name": "Mocha Shake",
+        "description": "The perfect combination of coffee and chocolate, this mocha shake is a sweet caffeine kick.",
+        "price": "7.49",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Coffee ice cream",
+            "Chocolate syrup",
+            "Whipped cream"
+        ],
+        "calories": 590,
+        "category": "Housemade Milkshakes",
+        "summary": "mocha shake, perfect combination of coffee and chocolate, sweet caffeine kick, $7.49, vegetarian, coffee ice cream chocolate syrup whipped cream, 590 calories, the devil's krafthouse",
+        "restaurant": "The Devil's Krafthouse",
+        "timeopen": "11am",
+        "timeclose": "8pm"
+    }
+]

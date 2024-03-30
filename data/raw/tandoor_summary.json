@@ -1,0 +1,249 @@
+[
+    {
+        "name": "NON-VEGETARIAN COMBO",
+        "description": "Two Proteins, One Vegetable, Rice, & Two Pieces of Naan",
+        "price": "11.89",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Chicken curry",
+            "Lamb curry",
+            "Mixed vegetables",
+            "Basmati rice",
+            "Naan"
+        ],
+        "calories": 900,
+        "category": "Combo",
+        "summary": "non-vegetarian combo, two proteins, one vegetable, rice, & two pieces of naan, $11.89, non-vegetarian, chicken curry lamb curry mixed vegetables basmati rice naan, 900 calories, tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "VEGETARIAN COMBO",
+        "description": "Three Vegetable Servings, Rice, & Two Pieces of Naan",
+        "price": "10.89",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Palak paneer",
+            "Vegetable korma",
+            "Chana masala",
+            "Basmati rice",
+            "Naan"
+        ],
+        "calories": 850,
+        "category": "Combo",
+        "summary": "vegetarian combo, three vegetable servings, rice, & two pieces of naan, $10.89, vegetarian, palak paneer vegetable korma chana masala basmati rice naan, 850 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Sada Dosai",
+        "description": "A simple, savory Indian crepe made from rice and lentil batter.",
+        "price": "8.59",
+        "type": "Vegan",
+        "ingredients": [
+            "Rice",
+            "Urad dal",
+            "Water",
+            "Salt"
+        ],
+        "calories": 300,
+        "category": "Main Course",
+        "summary": "sada dosai, a simple, savory indian crepe made from rice and lentil batter, $8.59, vegan, rice urad dal water salt, 300 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Vegetable Dosai",
+        "description": "Savory Indian crepe filled with seasoned vegetables.",
+        "price": "10.29",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Rice",
+            "Urad dal",
+            "Mixed vegetables",
+            "Spices"
+        ],
+        "calories": 350,
+        "category": "Main Course",
+        "summary": "vegetable dosai, savory indian crepe filled with seasoned vegetables, $10.29, vegetarian, rice urad dal mixed vegetables spices, 350 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Masala Dosai",
+        "description": "Dosai filled with spiced mashed potatoes and onions.",
+        "price": "10.29",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Rice",
+            "Urad dal",
+            "Potatoes",
+            "Onions",
+            "Mustard seeds",
+            "Turmeric"
+        ],
+        "calories": 360,
+        "category": "Main Course",
+        "summary": "masala dosai, dosai filled with spiced mashed potatoes and onions, $10.29, vegetarian, rice urad dal potatoes onions mustard seeds turmeric, 360 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Chicken Dosai",
+        "description": "Indian crepe filled with spiced chicken and herbs.",
+        "price": "11.49",
+        "type": "Non-Vegetarian",
+        "ingredients": [
+            "Rice",
+            "Urad dal",
+            "Chicken",
+            "Garam masala",
+            "Cilantro"
+        ],
+        "calories": 400,
+        "category": "Main Course",
+        "summary": "chicken dosai, indian crepe filled with spiced chicken and herbs, $11.49, non-vegetarian, rice urad dal chicken garam masala cilantro, 400 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Naan",
+        "description": "Traditional Indian leavened bread baked in a tandoor oven.",
+        "price": "2.49",
+        "type": "Vegan",
+        "ingredients": [
+            "Flour",
+            "Yeast",
+            "Water",
+            "Salt"
+        ],
+        "calories": 260,
+        "category": "Bread",
+        "summary": "naan, traditional indian leavened bread baked in a tandoor oven, $2.49, vegan, flour yeast water salt, 260 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Garlic Naan",
+        "description": "Leavened bread topped with garlic and cilantro, baked in a tandoor.",
+        "price": "3.79",
+        "type": "Vegan",
+        "ingredients": [
+            "Flour",
+            "Garlic",
+            "Cilantro",
+            "Yeast",
+            "Water"
+        ],
+        "calories": 290,
+        "category": "Bread",
+        "summary": "garlic naan, leavened bread topped with garlic and cilantro, baked in a tandoor, $3.79, vegan, flour garlic cilantro yeast water, 290 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Vegetable Samosa",
+        "description": "Deep-fried pastry filled with spiced potatoes and peas.",
+        "price": "4.99",
+        "type": "Vegan",
+        "ingredients": [
+            "Potatoes",
+            "Green peas",
+            "Flour",
+            "Spices"
+        ],
+        "calories": 250,
+        "category": "Appetizers",
+        "summary": "vegetable samosa, deep-fried pastry filled with spiced potatoes and peas, $4.99, vegan, potatoes green peas flour spices, 250 calories per piece , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Mango Lassi",
+        "description": "A sweet and tangy Indian beverage made with yogurt and mango.",
+        "price": "3.99",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Yogurt",
+            "Mango pulp",
+            "Sugar",
+            "Cardamom"
+        ],
+        "calories": 180,
+        "category": "Beverages",
+        "summary": "mango lassi, a sweet and tangy indian beverage made with yogurt and mango, $3.99, vegetarian, yogurt mango pulp sugar cardamom, 180 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Gulab Jamun",
+        "description": "Soft, spongy, and sweet milk-solid balls soaked in rose-scented syrup.",
+        "price": "4.25",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Milk solids",
+            "Flour",
+            "Sugar",
+            "Rose water",
+            "Cardamom"
+        ],
+        "calories": 320,
+        "category": "Desserts",
+        "summary": "gulab jamun, soft, spongy, and sweet milk-solid balls soaked in rose-scented syrup, $4.25, vegetarian, milk solids flour sugar rose water cardamom, 320 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "Kheer",
+        "description": "A traditional Indian rice pudding flavored with cardamom, raisins, and nuts.",
+        "price": "4.25",
+        "type": "Vegetarian",
+        "ingredients": [
+            "Rice",
+            "Milk",
+            "Sugar",
+            "Cardamom",
+            "Raisins",
+            "Almonds"
+        ],
+        "calories": 260,
+        "category": "Desserts",
+        "summary": "kheer, a traditional indian rice pudding flavored with cardamom, raisins, and nuts, $4.25, vegetarian, rice milk sugar cardamom raisins almonds, 260 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    },
+    {
+        "name": "DAILY DEVIL MEAL",
+        "description": "Chana Masala with Rice & Naan",
+        "price": "5.00",
+        "type": "Vegan",
+        "ingredients": [
+            "Chickpeas",
+            "Tomato sauce",
+            "Onions",
+            "Garlic",
+            "Ginger",
+            "Spices",
+            "Basmati rice",
+            "Naan"
+        ],
+        "calories": 700,
+        "category": "Combo",
+        "summary": "daily devil meal, chana masala with rice & naan, $5.00, vegan, chickpeas tomato sauce onions garlic ginger spices basmati rice naan, 700 calories , tandoor restaurant",
+        "restaurant": "Tandoor",
+        "timeopen": "11am",
+        "timeclose": "9pm"
+    }
+]
