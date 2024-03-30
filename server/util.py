@@ -90,3 +90,28 @@ def perform_search(query: str) -> list[dict]:
     llm_response = get_LLM_Response(query, metadata_list)
     llm_response = json.loads(llm_response)
     return llm_response
+
+
+def get_chat_response_from_llm(query: str, message_history: list[dict]) -> str:
+    """
+    This function takes a query and returns the response
+    """
+    query = preprocess_text(query)
+    embeddings = encode_model(query)
+    metadata_list = metadata_from_pinecone(embeddings)
+    metadata_list = json.dumps(metadata_list)
+    message_history = json.dumps(message_history)
+    prompt = f"""
+    {LLM_SYSTEM_MESSAGE}
+    Respond like you are a customer service representative at Brodhead center who knows everything about the food options.
+
+    Context:
+    {metadata_list}
+
+    Conversation History:
+    {message_history}
+
+    Question: {query}
+    """
+    response = gemini_model.generate_content(prompt)
+    return response.text.strip()

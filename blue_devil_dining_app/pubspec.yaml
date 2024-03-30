@@ -19,6 +19,10 @@ dependencies:
   android_intent_plus: ^5.0.1
   format: ^1.5.1
   dio: ^5.4.2+1
+  flutter_chat_ui: ^1.6.12
+  uuid: ^4.3.3
+  flutter_chat_types: ^3.6.2
+  flutter_markdown: ^0.6.22
 
 dev_dependencies:
   flutter_test:

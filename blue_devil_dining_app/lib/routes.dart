@@ -12,6 +12,6 @@ final Map<String, Widget Function(BuildContext context)> appRoutes =
   PageNames.SPLASH_PAGE.name: (_) => const SplashPage(),
   PageNames.SIGN_IN_PAGE.name: (_) => const SignInPage(),
   PageNames.HOME_PAGE.name: (_) => const HomePage(),
-  PageNames.CHATBOT_PAGE.name: (_) => const ChatBotPage(),
+  PageNames.CHATBOT_PAGE.name: (_) => const ChatPage(),
   PageNames.RESTAURANT_DETAIL_PAGE.name: (_) => const RestaurantDetailPage(),
 };

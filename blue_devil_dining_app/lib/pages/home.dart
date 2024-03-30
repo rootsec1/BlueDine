@@ -2,9 +2,11 @@ import 'dart:math';
 
 import 'package:blue_devil_dining_app/constants.dart';
 import 'package:blue_devil_dining_app/themes.dart';
+import 'package:blue_devil_dining_app/util.dart';
 import 'package:blue_devil_dining_app/widgets/restaurant_card.dart';
 import 'package:blue_devil_dining_app/widgets/search_bar.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/widgets.dart';
 import 'package:pocketbase/pocketbase.dart';
 
 final pb = PocketBase(pocketbaseUrl);
@@ -51,7 +53,16 @@ class _TopRowWidget extends StatelessWidget {
           ],
         ),
         Expanded(child: Container()),
-        const Icon(Icons.flag_outlined, size: standardSeparation * 1.5),
+        GestureDetector(
+          onTap: () => intentCallPhoneNumber("(919)-660-1765"),
+          child: const Tooltip(
+            message: "Report Lost & Found",
+            child: Icon(
+              Icons.flag_outlined,
+              size: standardSeparation * 1.5,
+            ),
+          ),
+        ),
         const SizedBox(width: standardSeparation),
         const Icon(Icons.insights_outlined, size: standardSeparation * 1.5),
         const SizedBox(width: standardSeparation),
@@ -74,7 +85,16 @@ class HomePage extends StatefulWidget {
 class _HomePageState extends State<HomePage> {
   Future<List<RecordModel>>? restaurantsFuture;
 
-  onChatbotButtonPressed() {}
+  onChatbotButtonPressed() {
+    final recordModel =
+        ModalRoute.of(context)!.settings.arguments as RecordModel;
+    final userFullName = recordModel.data["name"];
+    Navigator.pushNamed(
+      context,
+      PageNames.CHATBOT_PAGE.name,
+      arguments: userFullName,
+    );
+  }
 
   @override
   void didChangeDependencies() {

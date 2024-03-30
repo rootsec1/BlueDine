@@ -1,5 +1,6 @@
 import 'dart:io';
 
+import 'package:android_intent_plus/flag.dart';
 import 'package:android_intent_plus/android_intent.dart';
 import 'package:flutter/material.dart';
 
@@ -28,4 +29,13 @@ void intentGoogleMaps(double latitude, double longitude, BuildContext context) {
       context,
     );
   }
+}
+
+void intentCallPhoneNumber(String phoneNumber) {
+  final AndroidIntent intent = AndroidIntent(
+    action: 'action_view',
+    data: Uri.encodeFull('tel:$phoneNumber'),
+    flags: <int>[Flag.FLAG_ACTIVITY_NEW_TASK],
+  );
+  intent.launch();
 }
